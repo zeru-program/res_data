@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>No t1tl3</title>
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+    <style type="text/css" media="all">
+        main {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .container {
+            width: 95%;
+            height: auto;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 5px black;
+            padding: 10px;
+            margin-bottom: 15px;
+            overflow: hidden;
+        }
+        .container img {
+            width: 90%;
+        }
+        .fw-bold {
+            color: blue;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <main id="open">
+
+    </main>
+    <script>
+        fetch("data.json")
+        .then(res => res.json())
+        .then(data => {
+            var datas = data.data
+            datas.forEach((item, index) => {
+                var questionDiv = document.createElement("div");
+                questionDiv.innerHTML = `${index + 1}. ${item.question}<hr/>`;
+                questionDiv.classList.add("container")
+
+                var answerList = document.createElement("ul");
+
+                item.answers.forEach((answer) => {
+                    console.log(answer.jawaban);
+
+                    var answerItem = document.createElement("li");
+                    if (item.jawaban_soal_id === answer.id) {
+                        answerItem.classList.add("fw-bold")
+                    }
+                    answerItem.innerHTML = answer.jawaban;
+
+                    answerList.appendChild(answerItem);
+                });
+
+                questionDiv.appendChild(answerList);
+
+                document.getElementById("open").appendChild(questionDiv);
+            })
+        })
+    </script>
+</body>
+</html>
