@@ -2,677 +2,812 @@
   "status": "200",
   "data": [
     {
-      "id": "118",
-      "question": "Nilai dari \u003Cimg width=\"86\" height=\"69\" align=\"middle\" alt=\"mc003-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc003-1.jpg\" border=\"0\"\u003Eadalah ....",
-      "jawaban_soal_id": "588",
+      "id": "1534",
+      "question": "Rarangkén dina aksara Sunda kaganga nya éta lambang pikeun ngarobah sora vokal. Anu gunana pikeun ngaleungitkeun sora vokal aksara dasar anu miheulaan nya éta .....",
+      "jawaban_soal_id": "7668",
       "answers": [
         {
-          "id": "590",
-          "jawaban": "16"
+          "id": "7667",
+          "jawaban": "Panyiku"
         },
         {
-          "id": "589",
-          "jawaban": "8"
+          "id": "7666",
+          "jawaban": "Pangwisad"
         },
         {
-          "id": "588",
-          "jawaban": "4"
+          "id": "7669",
+          "jawaban": "Pamingkal"
         },
         {
-          "id": "586",
-          "jawaban": "1"
+          "id": "7670",
+          "jawaban": "Panolong"
         },
         {
-          "id": "587",
-          "jawaban": "2"
+          "id": "7668",
+          "jawaban": "Pamaéh"
         }
       ]
     },
     {
-      "id": "129",
-      "question": "Diketahui barisan aritmetika :\u003Cbr\u003E4 , 7 , 10 , 13 , 16 , 19 , ....\u003Cbr\u003Emaka rumus suku ke n (U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc014-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc014-1.jpg\" border=\"0\"\u003E) adalah ....",
-      "jawaban_soal_id": "645",
+      "id": "1559",
+      "question": "Dongéng anu eusina raket patalina jeung kapercayaan masarakat kana bangsa lelembut atawa hal-hal gaib disebut......",
+      "jawaban_soal_id": "7791",
       "answers": [
         {
-          "id": "644",
-          "jawaban": "U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc014-5.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc014-5.jpg\" border=\"0\"\u003E = 3n - 1"
+          "id": "7791",
+          "jawaban": "Mite"
         },
         {
-          "id": "643",
-          "jawaban": "U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc014-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc014-4.jpg\" border=\"0\"\u003E = 4n"
+          "id": "7794",
+          "jawaban": "Legenda"
         },
         {
-          "id": "641",
-          "jawaban": "U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc014-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc014-2.jpg\" border=\"0\"\u003E = 2n + 2"
+          "id": "7793",
+          "jawaban": "Pabel"
         },
         {
-          "id": "642",
-          "jawaban": "U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc014-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc014-3.jpg\" border=\"0\"\u003E = 5n - 1"
+          "id": "7792",
+          "jawaban": "Babad"
         },
         {
-          "id": "645",
-          "jawaban": "U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc014-6.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc014-6.jpg\" border=\"0\"\u003E = 3n + 1"
+          "id": "7795",
+          "jawaban": "Sasakala"
         }
       ]
     },
     {
-      "id": "138",
-      "question": "Pada barisan geometri diketahui U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc023-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc023-1.jpg\" border=\"0\"\u003E=4 dan U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc023-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc023-2.jpg\" border=\"0\"\u003E=16.\u003Cbr\u003EMaka nilai suku ke 8 (U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc023-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc023-3.jpg\" border=\"0\"\u003E) adalah",
-      "jawaban_soal_id": "688",
+      "id": "1539",
+      "question": "\u003Cspan style=\"font-size:18pt\"\u003E\u003Cimg width=\"182\" height=\"28\" align=\"bottom\" alt=\"mc009-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc009-1.jpg\" border=\"0\"\u003E\u003Cbr\u003E\u003C/span\u003EUnsur-unsur aksara Sunda téh aya lima rupa, unsur-unsur di luhur mangrupa conto unsur aksara Sunda .....\u003Cbr\u003E",
+      "jawaban_soal_id": "7691",
       "answers": [
         {
-          "id": "687",
-          "jawaban": "-64 atau 64"
+          "id": "7695",
+          "jawaban": "Vokal"
         },
         {
-          "id": "690",
-          "jawaban": "256"
+          "id": "7693",
+          "jawaban": "Kaganga"
         },
         {
-          "id": "689",
-          "jawaban": "-128 atau 128"
+          "id": "7694",
+          "jawaban": "Swara"
         },
         {
-          "id": "688",
-          "jawaban": "128"
+          "id": "7692",
+          "jawaban": "Rarangkén"
         },
         {
-          "id": "686",
-          "jawaban": "64"
+          "id": "7691",
+          "jawaban": "Angka"
         }
       ]
     },
     {
-      "id": "124",
-      "question": "Nilai dari \u003Cimg width=\"7\" height=\"19\" align=\"bottom\" alt=\"mc009-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc009-1.jpg\" border=\"0\"\u003Elog 25. \u003Cimg width=\"17\" height=\"19\" align=\"bottom\" alt=\"mc009-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc009-2.jpg\" border=\"0\"\u003Elog 27. \u003Cimg width=\"7\" height=\"19\" align=\"bottom\" alt=\"mc009-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc009-3.jpg\" border=\"0\"\u003Elog 4 adalah ....",
-      "jawaban_soal_id": "617",
+      "id": "1557",
+      "question": "Di handap ieu nu \u003Cb\u003Eteu kaasup\u003C/b\u003E kana unsur-unsur aksara Sunda, nya éta ......",
+      "jawaban_soal_id": "7782",
       "answers": [
         {
-          "id": "620",
-          "jawaban": "1"
+          "id": "7784",
+          "jawaban": "Rarangkén"
         },
         {
-          "id": "617",
-          "jawaban": "4"
+          "id": "7781",
+          "jawaban": "Aksara sora"
         },
         {
-          "id": "618",
-          "jawaban": "3"
+          "id": "7783",
+          "jawaban": "Tandabaca"
         },
         {
-          "id": "619",
-          "jawaban": "2"
+          "id": "7782",
+          "jawaban": "Aksara Ngalagina"
         },
         {
-          "id": "616",
-          "jawaban": "5"
+          "id": "7785",
+          "jawaban": "Angka"
         }
       ]
     },
     {
-      "id": "123",
-      "question": "Dengan menggunakan sifat logaritma, maka nilai \u003Cimg width=\"8\" height=\"20\" align=\"bottom\" alt=\"mc008-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc008-1.jpg\" border=\"0\"\u003Elog 64  -  \u003Cimg width=\"8\" height=\"20\" align=\"bottom\" alt=\"mc008-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc008-2.jpg\" border=\"0\"\u003Elog 16  = . . .",
-      "jawaban_soal_id": "614",
+      "id": "1556",
+      "question": "Dongéng nu nyaritakeun kahirupan jalma biasa, tapi kalakuan atawa pasipatanana sok mahiwal ti batur disebut?",
+      "jawaban_soal_id": "7779",
       "answers": [
         {
-          "id": "615",
-          "jawaban": "5"
+          "id": "7779",
+          "jawaban": "Sasakala"
         },
         {
-          "id": "612",
-          "jawaban": "2"
+          "id": "7776",
+          "jawaban": "Pabel"
         },
         {
-          "id": "614",
-          "jawaban": "4"
+          "id": "7777",
+          "jawaban": "Parabel"
         },
         {
-          "id": "613",
-          "jawaban": "3"
+          "id": "7780",
+          "jawaban": "Mite"
         },
         {
-          "id": "611",
-          "jawaban": "1"
+          "id": "7778",
+          "jawaban": "Legenda"
         }
       ]
     },
     {
-      "id": "125",
-      "question": "Jika    log 2 = 0,3010 dan log 3 = 0,4771. Nilai dari log 12 adalah ....",
-      "jawaban_soal_id": "625",
+      "id": "1549",
+      "question": "Cara nyawang anu dipaké ku pangarang dina midangkeun palaku, latar jeung kajadian carita disebut.....",
+      "jawaban_soal_id": "7744",
       "answers": [
         {
-          "id": "625",
-          "jawaban": "1,0791"
+          "id": "7741",
+          "jawaban": "Amanat"
         },
         {
-          "id": "621",
-          "jawaban": "0,4673"
+          "id": "7743",
+          "jawaban": "Latar"
         },
         {
-          "id": "622",
-          "jawaban": "0,6361"
+          "id": "7745",
+          "jawaban": "Jejer"
         },
         {
-          "id": "623",
-          "jawaban": "0,8762"
+          "id": "7742",
+          "jawaban": "Puseur sawangan"
         },
         {
-          "id": "624",
-          "jawaban": "1,0263"
+          "id": "7744",
+          "jawaban": "Galur"
         }
       ]
     },
     {
-      "id": "132",
-      "question": "Pada barisan aritmetika diketahui \u003Cspan style=\"font-size:14pt\"\u003EU\u003Csub\u003E5\u003C/sub\u003E = \u003C/span\u003E18   dan  \u003Cspan style=\"font-size:14pt\"\u003EU\u003Csub\u003E12\u003C/sub\u003E = \u003C/span\u003E39, maka nilau \u003Cspan style=\"font-size:14pt\"\u003EU\u003Csub\u003E20\u003C/sub\u003E = ....\u003C/span\u003E",
-      "jawaban_soal_id": "656",
+      "id": "1541",
+      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Ci\u003E“Ceuk sasakalana mah, éta situ téh asal muasalna kieu. baheula, aya hiji randa beunghar ngaranna Nyi Endit. ari ngaran aslina mah Nyi Bagendit. Manéhna téh kacida kumedna. Tatanggana geus arapal kana sipatna. Salian ti bujang atawa babuna mah, tara aya nu larsup ka imahna. Éstuning lain babasan hirup nyorangan téh. Ngahaja mencilkeun manéh, ngababakan di tengah pasawahan nu upluk-aplak. Maksudna taya lian ku bawaning embung pacampur jeung batur, da sieun kasoro téa.” \u003Cbr\u003E\u003C/i\u003ESempalan dongéng di luhur judulna nya éta .....\u003C/div\u003E",
+      "jawaban_soal_id": "7705",
       "answers": [
         {
-          "id": "660",
-          "jawaban": "56"
+          "id": "7704",
+          "jawaban": "Sakadang kuya jeung sakadang peucang"
         },
         {
-          "id": "656",
-          "jawaban": "63"
+          "id": "7702",
+          "jawaban": "Sangkuringan"
         },
         {
-          "id": "658",
-          "jawaban": "60"
+          "id": "7705",
+          "jawaban": "Sasakala situ bagendit"
         },
         {
-          "id": "659",
-          "jawaban": "58"
+          "id": "7701",
+          "jawaban": "Si Kabayan Ngala Nangka"
         },
         {
-          "id": "657",
-          "jawaban": "61"
+          "id": "7703",
+          "jawaban": "Sasakala Panjalu"
         }
       ]
     },
     {
-      "id": "128",
-      "question": "Nilai dari     \u003Cimg width=\"100\" height=\"58\" align=\"middle\" alt=\"mc013-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc013-1.jpg\" border=\"0\"\u003E  adalah ....",
-      "jawaban_soal_id": "637",
+      "id": "1551",
+      "question": "Di handap ieu nu \u003Cb\u003Eteu kaasup\u003C/b\u003E kana ciri-ciri dongéng nya éta?",
+      "jawaban_soal_id": "7752",
       "answers": [
         {
-          "id": "639",
-          "jawaban": "3"
+          "id": "7751",
+          "jawaban": "Caritana basajan"
         },
         {
-          "id": "638",
-          "jawaban": "2"
+          "id": "7754",
+          "jawaban": "Boga konvéksi"
         },
         {
-          "id": "637",
-          "jawaban": "1"
+          "id": "7752",
+          "jawaban": "Ngandung ajén atikan"
         },
         {
-          "id": "640",
-          "jawaban": "4"
+          "id": "7753",
+          "jawaban": "Boga improvisasi"
         },
         {
-          "id": "636",
-          "jawaban": "0"
+          "id": "7755",
+          "jawaban": "Ngandung unsur pamohalan"
         }
       ]
     },
     {
-      "id": "140",
-      "question": "Seseorang menjatuhkan bola tenis dari sebuah atap gedung yang tingginya 18 m ke permukaan lantai yang keras dan rata. Setiap kali bola menyentuh lantai, bola tersebut akan memantul setinggi \u003Cimg width=\"9\" height=\"37\" align=\"middle\" alt=\"mc025-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc025-1.jpg\" border=\"0\"\u003E dari ketinggian sebelumnya. Maka panjang lintasan bola sampai bola berhenti memantul adalah ....",
-      "jawaban_soal_id": "698",
+      "id": "1552",
+      "question": "Di handap ieu rundayan atawa turunan dina istilah pancakaki, \u003Cb\u003Eiwal ti .....\u003C/b\u003E",
+      "jawaban_soal_id": "7759",
       "answers": [
         {
-          "id": "696",
-          "jawaban": "82 m"
+          "id": "7756",
+          "jawaban": "Bao"
         },
         {
-          "id": "699",
-          "jawaban": "96 m"
+          "id": "7760",
+          "jawaban": "Kait siwur"
         },
         {
-          "id": "697",
-          "jawaban": "86 m"
+          "id": "7758",
+          "jawaban": "Alo"
         },
         {
-          "id": "700",
-          "jawaban": "100 m"
+          "id": "7759",
+          "jawaban": "Bau sinduk"
         },
         {
-          "id": "698",
-          "jawaban": "90 m"
+          "id": "7757",
+          "jawaban": "Gantung siwur"
         }
       ]
     },
     {
-      "id": "137",
-      "question": "Diketahui barisan geometri : 3 , 6 , 12 , 24 , 48 , .....\u003Cbr\u003EMaka suku ke 10 (U\u003Cimg width=\"12\" height=\"26\" align=\"middle\" alt=\"mc022-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc022-1.jpg\" border=\"0\"\u003E) barisan tersebut adalah ....",
-      "jawaban_soal_id": "682",
+      "id": "1555",
+      "question": "Dina istilah pancakaki, \u003Cb\u003EIndung atawa Bapa (kolotna) udeg-udeg\u003C/b\u003E disebut?",
+      "jawaban_soal_id": "7771",
       "answers": [
         {
-          "id": "685",
-          "jawaban": "1.653"
+          "id": "7771",
+          "jawaban": "Bao"
         },
         {
-          "id": "681",
-          "jawaban": "1.356"
+          "id": "7775",
+          "jawaban": "Buyut"
         },
         {
-          "id": "683",
-          "jawaban": "1.563"
+          "id": "7773",
+          "jawaban": "Kait siwur"
         },
         {
-          "id": "684",
-          "jawaban": "1.635"
+          "id": "7772",
+          "jawaban": "Alo"
         },
         {
-          "id": "682",
-          "jawaban": "1.536"
+          "id": "7774",
+          "jawaban": "Bau sinduk"
         }
       ]
     },
     {
-      "id": "117",
-      "question": "Nilai x yang memenuhi persamaan 2\u003Cimg width=\"25\" height=\"19\" align=\"bottom\" alt=\"mc002-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc002-1.jpg\" border=\"0\"\u003E = 4\u003Cimg width=\"25\" height=\"19\" align=\"bottom\" alt=\"mc002-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc002-2.jpg\" border=\"0\"\u003E adalah ....",
-      "jawaban_soal_id": "581",
+      "id": "1535",
+      "question": "\u003Cspan style=\"font-size:12pt\"\u003EPék robah kalimah di handap ieu!\u003Cbr\u003E\u003C/span\u003E\u003Cimg width=\"277\" height=\"79\" align=\"bottom\" alt=\"mc005-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc005-1.jpg\" border=\"0\"\u003E",
+      "jawaban_soal_id": "7673",
       "answers": [
         {
-          "id": "584",
-          "jawaban": "3"
+          "id": "7675",
+          "jawaban": "Abadi saré"
         },
         {
-          "id": "582",
-          "jawaban": "-3"
+          "id": "7673",
+          "jawaban": "Abadi sakola"
         },
         {
-          "id": "585",
-          "jawaban": "4"
+          "id": "7674",
+          "jawaban": "Abadi ulin"
         },
         {
-          "id": "583",
-          "jawaban": "-2"
+          "id": "7671",
+          "jawaban": "Abadi dahar"
         },
         {
-          "id": "581",
-          "jawaban": "-4"
+          "id": "7672",
+          "jawaban": "Abadi dongkap"
         }
       ]
     },
     {
-      "id": "119",
-      "question": "Bentuk sederhana dari (2\u003Cimg width=\"24\" height=\"23\" align=\"bottom\" alt=\"mc004-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc004-1.jpg\" border=\"0\"\u003E - \u003Cimg width=\"24\" height=\"23\" align=\"bottom\" alt=\"mc004-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc004-2.jpg\" border=\"0\"\u003E)  (2\u003Cimg width=\"24\" height=\"23\" align=\"bottom\" alt=\"mc004-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc004-3.jpg\" border=\"0\"\u003E + \u003Cimg width=\"24\" height=\"23\" align=\"bottom\" alt=\"mc004-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc004-4.jpg\" border=\"0\"\u003E )  adalah . . .",
-      "jawaban_soal_id": "595",
+      "id": "1532",
+      "question": "Salasahiji unsur-unsur aksara Sunda nya éta rarangkén anu jumlahna aya 13, diantarana rarangkén panglayar anu gunana pikeun .....",
+      "jawaban_soal_id": "7658",
       "answers": [
         {
-          "id": "595",
-          "jawaban": "7"
+          "id": "7660",
+          "jawaban": "Nambahan konsonan /+r/, nulisna gigireun aksara dasar"
         },
         {
-          "id": "592",
-          "jawaban": "2\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc004-5.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc004-5.jpg\" border=\"0\"\u003E"
+          "id": "7659",
+          "jawaban": "Nambahan konsonan /+r/, nulisna harepeun aksara dasar"
         },
         {
-          "id": "593",
-          "jawaban": "6"
+          "id": "7657",
+          "jawaban": "Nambahan konsonan /+r/, nulisna luhureun aksara dasar"
         },
         {
-          "id": "591",
-          "jawaban": "2"
+          "id": "7658",
+          "jawaban": "Nambahan konsonan /+r/, nulisna tukangeun aksara dasar"
         },
         {
-          "id": "594",
-          "jawaban": "6\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc004-6.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc004-6.jpg\" border=\"0\"\u003E"
+          "id": "7656",
+          "jawaban": "Nambahan konsonan /+r/, nulisna handapeun aksara dasar"
         }
       ]
     },
     {
-      "id": "126",
-      "question": "Jika log 2 = a dan log 5 = b, maka log 200 = ....",
-      "jawaban_soal_id":"626",
+      "id": "1548",
+      "question": "Dina unsur dongéng, palaku tambahan disebut?",
+      "jawaban_soal_id": "7737",
       "answers": [
         {
-          "id": "630",
-          "jawaban": "8a+25b"
+          "id": "7740",
+          "jawaban": "Pamohalan"
         },
         {
-          "id": "627",
-          "jawaban": "2a+3b"
+          "id": "7737",
+          "jawaban": "Tritagonis"
         },
         {
-          "id": "628",
-          "jawaban": "4a+3b"
+          "id": "7739",
+          "jawaban": "Anonim"
         },
         {
-          "id": "629",
-          "jawaban": "3a+4b"
+          "id": "7736",
+          "jawaban": "Antagonis"
         },
         {
-          "id": "626",
-          "jawaban": "3a+2b"
+          "id": "7738",
+          "jawaban": "Protagonis"
         }
       ]
     },
     {
-      "id": "135",
-      "question": "Diketahui deret aritmetika : 5 + 9 + 13 + 17 + .......\u003Cbr\u003EMaka jumlah 20 suku pertama (\u003Cspan style=\"font-size:14pt\"\u003ES\u003Csub\u003E20\u003C/sub\u003E) \u003C/span\u003Eadalah ....",
-      "jawaban_soal_id": "672",
+      "id": "1531",
+      "question": "Dina unsur aksara kaganga, aya sababaraha aksara anu hampir sarua dina aksara Sunda  \u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"143\" height=\"31\" align=\"bottom\" alt=\"mc001-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc001-1.jpg\" border=\"0\"\u003E \u003C/span\u003Enya éta .....",
+      "jawaban_soal_id": "7653",
       "answers": [
         {
-          "id": "671",
-          "jawaban": "760"
+          "id": "7653",
+          "jawaban": "ja jeung da"
         },
         {
-          "id": "673",
-          "jawaban": "820"
+          "id": "7652",
+          "jawaban": "ba jeung nya"
         },
         {
-          "id": "674",
-          "jawaban": "860"
+          "id": "7655",
+          "jawaban": "sa jeung na"
         },
         {
-          "id": "672",
-          "jawaban": "780"
+          "id": "7654",
+          "jawaban": "ha jeung na"
         },
         {
-          "id": "675",
-          "jawaban": "880"
+          "id": "7651",
+          "jawaban": "ka jeung sa"
         }
       ]
     },
     {
-      "id": "139",
-      "question": "Diketahui deret geometri : 100 + 50 + 25 + 12,5 + ....\u003Cbr\u003EMaka jumlah deret tak hingga (S\u003Cspan style=\"font-family:'Symbol'\"\u003E¥\u003C/span\u003E)\u003Cimg width=\"6\" height=\"27\" align=\"middle\" alt=\"mc024-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc024-1.jpg\" border=\"0\"\u003Eadalah ....",
-      "jawaban_soal_id": "691",
+      "id": "1542",
+      "question": "Dina dongéng sangkuriang aya unsur pamohalan, diantarana waé nya éta .....",
+      "jawaban_soal_id": "7709",
       "answers": [
         {
-          "id": "695",
-          "jawaban": "400"
+          "id": "7707",
+          "jawaban": "Dayang sumbi boga anak sangkuriang"
         },
         {
-          "id": "693",
-          "jawaban": "240"
+          "id": "7710",
+          "jawaban": "Sangkuriang saenyana anak raja"
         },
         {
-          "id": "691",
-          "jawaban": "200"
+          "id": "7708",
+          "jawaban": "Sangkuriang nyieun parahu"
         },
         {
-          "id": "694",
-          "jawaban": "300"
+          "id": "7706",
+          "jawaban": "Raja kahampangan dina balokéng"
         },
         {
-          "id": "692",
-          "jawaban": "210"
+          "id": "7709",
+          "jawaban": "Dayang sumbi kawin jeung Si Tumang"
         }
       ]
     },
     {
-      "id": "122",
-      "question": "Bentuk sederhana dari 3\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc007-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc007-1.jpg\" border=\"0\"\u003E + 2\u003Cimg width=\"31\" height=\"22\" align=\"bottom\" alt=\"mc007-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc007-2.jpg\" border=\"0\"\u003E - 12\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc007-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc007-3.jpg\" border=\"0\"\u003E = ....",
-      "jawaban_soal_id": "609",
+      "id": "1553",
+      "question": "Dina istilah dulur atawa baraya ti gigir pancakaki, \u003Cb\u003Eanakna ua \u003C/b\u003Edisebut?",
+      "jawaban_soal_id": "7761",
       "answers": [
         {
-          "id": "609",
-          "jawaban": "2\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc007-7.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc007-7.jpg\" border=\"0\"\u003E"
+          "id": "7765",
+          "jawaban": "Bao"
         },
         {
-          "id": "606",
-          "jawaban": "6\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc007-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc007-4.jpg\" border=\"0\"\u003E"
+          "id": "7764",
+          "jawaban": "Alo"
         },
         {
-          "id": "607",
-          "jawaban": "-6\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc007-5.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc007-5.jpg\" border=\"0\"\u003E"
+          "id": "7763",
+          "jawaban": "Suan"
         },
         {
-          "id": "608",
-          "jawaban": "4\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc007-6.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc007-6.jpg\" border=\"0\"\u003E"
+          "id": "7762",
+          "jawaban": "Kapiadi"
         },
         {
-          "id": "610",
-          "jawaban": "-2\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc007-8.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc007-8.jpg\" border=\"0\"\u003E"
+          "id": "7761",
+          "jawaban": "Kapilanceuk"
         }
       ]
     },
     {
-      "id": "136",
-      "question": "Pada deret aritmetika, rumus jumlah sampai suku ke n adalah  \u003Cspan style=\"font-size:14pt\"\u003ES\u003Csub\u003En\u003C/sub\u003E = n\u003Csup\u003E2 \u003C/sup\u003E+ 8n, \u003C/span\u003Emaka nilai \u003Cspan style=\"font-size:14pt\"\u003EU\u003Csub\u003E10\u003C/sub\u003E = ....\u003C/span\u003E",
-      "jawaban_soal_id":"680",
+      "id": "1545",
+      "question": "Karya sastra wangun carita rékaan anu méré kesan pamohalan tur ukuranana parondok disebut.....",
+      "jawaban_soal_id": "7721",
       "answers": [
         {
-          "id": "680",
-          "jawaban": "27"
+          "id": "7721",
+          "jawaban": "Carpon"
         },
         {
-          "id": "677",
-          "jawaban": "24"
+          "id": "7725",
+          "jawaban": "Biantara"
         },
         {
-          "id": "676",
-          "jawaban": "23"
+          "id": "7722",
+          "jawaban": "Novel"
         },
         {
-          "id": "678",
-          "jawaban": "25"
+          "id": "7724",
+          "jawaban": "Sajak"
         },
         {
-          "id": "679",
-          "jawaban": "26"
+          "id": "7723",
+          "jawaban": "Dongéng"
         }
       ]
     },
     {
-      "id": "116",
-      "question": "Nilai dari 27\u003Cimg width=\"10\" height=\"30\" align=\"bottom\" alt=\"mc001-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc001-1.jpg\" border=\"0\"\u003E+ 4\u003Cimg width=\"10\" height=\"30\" align=\"bottom\" alt=\"mc001-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc001-2.jpg\" border=\"0\"\u003E- 125\u003Cimg width=\"10\" height=\"30\" align=\"bottom\" alt=\"mc001-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc001-3.jpg\" border=\"0\"\u003E",
-      "jawaban_soal_id": "579",
+      "id": "1536",
+      "question": "\u003Cspan style=\"font-size:14pt\"\u003E\u003Cbr\u003E\u003C/span\u003E\u003Cspan style=\"font-size:14pt\"\u003E        \u003C/span\u003E\u003Cspan style=\"font-size:12pt\"\u003EPék robah kalimah ieu kana aksara Sunda “\u003Ci\u003EBapa Jaya dimana?\u003C/i\u003E”\u003C/span\u003E",
+      "jawaban_soal_id": "7677",
       "answers": [
         {
-          "id": "580",
-          "jawaban": "15"
+          "id": "7680",
+          "jawaban": "\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"169\" height=\"37\" align=\"bottom\" alt=\"mc006-5.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc006-5.jpg\" border=\"0\"\u003E\u003C/span\u003E"
         },
         {
-          "id": "576",
-          "jawaban": "10"
+          "id": "7679",
+          "jawaban": "\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"175\" height=\"23\" align=\"bottom\" alt=\"mc006-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc006-4.jpg\" border=\"0\"\u003E\u003C/span\u003E"
         },
         {
-          "id": "579",
-          "jawaban": "14"
+          "id": "7678",
+          "jawaban": "\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"151\" height=\"33\" align=\"bottom\" alt=\"mc006-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc006-3.jpg\" border=\"0\"\u003E\u003C/span\u003E"
         },
         {
-          "id": "577",
-          "jawaban": "12"
+          "id": "7676",
+          "jawaban": "\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"153\" height=\"28\" align=\"bottom\" alt=\"mc006-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc006-1.jpg\" border=\"0\"\u003E\u003C/span\u003E"
         },
         {
-          "id": "578",
-          "jawaban": "13"
+          "id": "7677",
+          "jawaban": "\u003Cimg width=\"151\" height=\"35\" align=\"bottom\" alt=\"mc006-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc006-2.jpg\" border=\"0\"\u003E"
         }
       ]
     },
     {
-      "id": "120",
-      "question": "Penyederhanaan dari bentuk \u003Cimg width=\"20\" height=\"37\" align=\"middle\" alt=\"mc005-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc005-1.jpg\" border=\"0\"\u003E adalah ....",
-      "jawaban_soal_id": "598",
+      "id": "1547",
+      "question": "Gagasan awal anu hayang ditepikeun ku pangarang dina karyana disebut?",
+      "jawaban_soal_id": "7733",
       "answers": [
         {
-          "id": "597",
-          "jawaban": "3\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc005-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc005-3.jpg\" border=\"0\"\u003E"
+          "id": "7731",
+          "jawaban": "Palaku"
         },
         {
-          "id": "596",
-          "jawaban": "6\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc005-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc005-2.jpg\" border=\"0\"\u003E"
+          "id": "7732",
+          "jawaban": "Latar"
         },
         {
-          "id": "598",
-          "jawaban": "2\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc005-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc005-4.jpg\" border=\"0\"\u003E"
+          "id": "7733",
+          "jawaban": "Jejer"
         },
         {
-          "id": "600",
-          "jawaban": "3"
+          "id": "7734",
+          "jawaban": "Galur"
         },
         {
-          "id": "599",
-          "jawaban": "2"
+          "id": "7735",
+          "jawaban": "Amanat"
         }
       ]
     },
     {
-      "id": "134",
-      "question": "Antara 8 dan 22 disisipkan 6 bilangan sehingga membentuk barisan aritmetika. Maka suku ke 4 dari barisan tersebut adalah ....",
-      "jawaban_soal_id": "668",
+      "id": "1533",
+      "question": "Rarangkén dina aksara Sunda kaganga nya éta lambang pikeun ngarobah sora vokal. Rarangkén paneuleung méh sarua wangunna jeung ....",
+      "jawaban_soal_id": "7664",
       "answers": [
         {
-          "id": "670",
-          "jawaban": "18"
+          "id": "7661",
+          "jawaban": "Panéléng"
         },
         {
-          "id": "667",
-          "jawaban": "12"
+          "id": "7662",
+          "jawaban": "Pamepet"
         },
         {
-          "id": "669",
-          "jawaban": "16"
+          "id": "7664",
+          "jawaban": "Panyuku"
         },
         {
-          "id": "666",
-          "jawaban": "10"
+          "id": "7665",
+          "jawaban": "Panglayar"
         },
         {
-          "id": "668",
-          "jawaban": "14"
+          "id": "7663",
+          "jawaban": "Panolong"
         }
       ]
     },
     {
-      "id": "127",
-      "question": "Nilai dari \u003Cimg width=\"7\" height=\"19\" align=\"bottom\" alt=\"mc012-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc012-1.jpg\" border=\"0\"\u003Elog 8 + \u003Cimg width=\"7\" height=\"19\" align=\"bottom\" alt=\"mc012-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc012-2.jpg\" border=\"0\"\u003Elog 12,5 - \u003Cimg width=\"7\" height=\"19\" align=\"bottom\" alt=\"mc012-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc012-3.jpg\" border=\"0\"\u003Elog 25 = ....",
-      "jawaban_soal_id": "635",
+      "id": "1543",
+      "question": "\u003Cdiv style=\"text-align:justify\"\u003EBaheula mah ngadongéng téh jadi kabiasaan urang Sunda keur mépéndé barudak. Kiwari dongéng téh lain dipaké keur mépéndé, tapi geus jadi media hiburan. Sanajan jadi media hiburan, dongéng ogé moboga ajén atikan. Di handap ieu nu teu kaasup kana ciri-ciri dongéng nya éta.....\u003C/div\u003E",
+      "jawaban_soal_id": "7715",
       "answers": [
         {
-          "id": "632",
-          "jawaban": "1"
+          "id": "7712",
+          "jawaban": "Anonim"
         },
         {
-          "id": "634",
-          "jawaban": "3"
+          "id": "7711",
+          "jawaban": "Sipatna pamohalan"
         },
         {
-          "id": "633",
-          "jawaban": "2"
+          "id": "7715",
+          "jawaban": "Sumebar sacara tulisan"
         },
         {
-          "id": "631",
-          "jawaban": "-2"
+          "id": "7713",
+          "jawaban": "Wangun caritana leuwih pondok batan novel"
         },
         {
-          "id": "635",
-          "jawaban": "4"
+          "id": "7714",
+          "jawaban": "Wangun lancaran"
         }
       ]
     },
     {
-      "id": "131",
-      "question": "Pada barisan aritmetika : 7, 12, 17, 22, ......., 102.\u003Cbr\u003EMaka banyaknya suku barisan tersebut adalah ....",
-      "jawaban_soal_id": "652",
+      "id": "1537",
+      "question": "\u003Cspan style=\"font-size:14pt\"\u003E\u003Cbr\u003E\u003C/span\u003E\u003Cspan style=\"font-size:14pt\"\u003E      \u003C/span\u003E\u003Cspan style=\"font-size:12pt\"\u003EUnsur-unsur aksara Sunda diantarana aksara sora atawa aksara vokal. Di handap ieu nu kaasup kana aksara sora, nya éta .....\u003Cbr\u003E\u003C/span\u003E",
+      "jawaban_soal_id": "7684",
       "answers": [
         {
-          "id": "652",
-          "jawaban": "20"
+          "id": "7683",
+          "jawaban": "\u003Cspan style=\"font-family:'SundaneseLatin'\"\u003E\u003Cspan style=\"font-size:14pt\"\u003E\u003Cimg width=\"40\" height=\"31\" align=\"bottom\" alt=\"mc007-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc007-3.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003C/span\u003E"
         },
         {
-          "id": "655",
-          "jawaban": "25"
+          "id": "7685",
+          "jawaban": "\u003Cspan style=\"font-size:14pt\"\u003E\u003Cspan style=\"font-family:'SundaneseLatin'\"\u003E\u003Cimg width=\"57\" height=\"33\" align=\"bottom\" alt=\"mc007-5.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc007-5.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003C/span\u003E"
         },
         {
-          "id": "654",
-          "jawaban": "24"
+          "id": "7681",
+          "jawaban": "\u003Cspan style=\"font-family:'SundaneseLatin'\"\u003E\u003Cspan style=\"font-size:16pt\"\u003E\u003Cimg width=\"69\" height=\"25\" align=\"bottom\" alt=\"mc007-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc007-1.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003C/span\u003E"
         },
         {
-          "id": "651",
-          "jawaban": "18"
+          "id": "7684",
+          "jawaban": "\u003Cspan style=\"font-size:14pt\"\u003E\u003Cspan style=\"font-family:'SundaneseLatin'\"\u003E\u003Cimg width=\"39\" height=\"31\" align=\"bottom\" alt=\"mc007-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc007-4.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003C/span\u003E"
         },
         {
-          "id": "653",
-          "jawaban": "22"
+          "id": "7682",
+          "jawaban": "\u003Cspan style=\"font-size:14pt\"\u003E\u003Cspan style=\"font-family:'SundaneseLatin'\"\u003E\u003Cimg width=\"53\" height=\"25\" align=\"bottom\" alt=\"mc007-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc007-2.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003C/span\u003E"
         }
       ]
     },
     {
-      "id": "130",
-      "question": "Diketahui barisan aritmetika :\u003Cbr\u003E8, 8\u003Cimg width=\"9\" height=\"37\" align=\"middle\" alt=\"mc015-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc015-1.jpg\" border=\"0\"\u003E, 9, 9\u003Cimg width=\"9\" height=\"37\" align=\"middle\" alt=\"mc015-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc015-2.jpg\" border=\"0\"\u003E, 10, ....\u003Cbr\u003Emaka nilai suku ke 41 (U\u003Cimg width=\"12\" height=\"26\" align=\"middle\" alt=\"mc015-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc015-3.jpg\" border=\"0\"\u003E) adalah ....",
-      "jawaban_soal_id": "649",
+      "id": "1560",
+      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Ci\u003EJaman baheula, pernahna di wewengkon Karawang, kacaritakeun aya jajaka anu ngaranna Jaka Awang. Jaka Awang téh hiji lalaki langit lalanang jagat, sakti manggulang-mangguling. Harita Jaka Awang keur néangan adina nu ngarana Nyi Arum, nu lila leungit teuing ka mana.\u003Cbr\u003E\u003Cbr\u003E\u003C/i\u003E\u003C/div\u003ESempalan dongéng diluhur kaasup kana dongéng legenda nu judulna?",
+      "jawaban_soal_id": "7798",
       "answers": [
         {
-          "id": "649",
-          "jawaban": "28"
+          "id": "7796",
+          "jawaban": "Sasakala Tangkubanparahu"
         },
         {
-          "id": "647",
-          "jawaban": "27"
+          "id": "7798",
+          "jawaban": "Sasakala Panjalu"
         },
         {
-          "id": "646",
-          "jawaban": "26\u003Cimg width=\"9\" height=\"37\" align=\"middle\" alt=\"mc015-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc015-4.jpg\" border=\"0\"\u003E"
+          "id": "7800",
+          "jawaban": "Sasakala Situ Bagendit"
         },
         {
-          "id": "650",
-          "jawaban": "28\u003Cimg width=\"9\" height=\"37\" align=\"middle\" alt=\"mc015-6.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc015-6.jpg\" border=\"0\"\u003E"
+          "id": "7799",
+          "jawaban": "Sasakala Leuwigobang"
         },
         {
-          "id": "648",
-          "jawaban": "27\u003Cimg width=\"9\" height=\"37\" align=\"middle\" alt=\"mc015-5.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc015-5.jpg\" border=\"0\"\u003E"
+          "id": "7797",
+          "jawaban": "Sasakala Kaliwedi"
         }
       ]
     },
     {
-      "id": "133",
-      "question": "Pada barisan aritmetika diketahui U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc018-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc018-1.jpg\" border=\"0\"\u003E + U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc018-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc018-2.jpg\" border=\"0\"\u003E = 36  dan  U\u003Cimg width=\"12\" height=\"26\" align=\"middle\" alt=\"mc018-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc018-3.jpg\" border=\"0\"\u003E = 30, maka nilai U\u003Cimg width=\"12\" height=\"26\" align=\"middle\" alt=\"mc018-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc018-4.jpg\" border=\"0\"\u003E = ....",
-      "jawaban_soal_id": "663",
+      "id": "1554",
+      "question": "Carita dongéng anu ukuran caritana panjang tur eusina medar riwayat luluhur atawa kajadian jaman baheula anu aya patalina jeung sajarah atawa karajaan disebut?",
+      "jawaban_soal_id": "7770",
       "answers": [
         {
-          "id": "662",
-          "jawaban": "38"
+          "id": "7767",
+          "jawaban": "Pabel"
         },
         {
-          "id": "664",
-          "jawaban": "45"
+          "id": "7769",
+          "jawaban": "Mite"
         },
         {
-          "id": "665",
-          "jawaban": "50"
+          "id": "7770",
+          "jawaban": "Legenda"
         },
         {
-          "id": "661",
-          "jawaban": "36"
+          "id": "7766",
+          "jawaban": "Sagé"
         },
         {
-          "id": "663",
-          "jawaban": "40"
+          "id": "7768",
+          "jawaban": "Parabel"
         }
       ]
     },
     {
-      "id": "121",
-      "question": "Jika a = 4, b = 9 dan c = 27, nilai dari \u003Cimg width=\"70\" height=\"91\" align=\"middle\" alt=\"mc006-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc006-1.jpg\" border=\"0\"\u003E",
-      "jawaban_soal_id": "601",
+      "id": "1546",
+      "question": "Pék baca sempalan dongéng di handap ieu!\u003Cbr\u003E\u003Cdiv style=\"text-align:justify\"\u003E\u003Ci\u003EAya anak maung rék nginum ka walungan. Barang nepi ka walungan, nincak tonggong anak buhaya. Anak buhaya nyerieun, ceurik sarta bébéja ka indungna di jero leuwi. \u003Cbr\u003E\u003Cbr\u003E\u003C/i\u003ESempalan dongéng di luhur téh mangrupa sempalan dongéng anu judulna?\u003C/div\u003E",
+      "jawaban_soal_id": "7727",
       "answers": [
         {
-          "id": "604",
-          "jawaban": "6"
+          "id": "7727",
+          "jawaban": "Sakadang Peucang"
         },
         {
-          "id": "602",
-          "jawaban": "\u003Cimg width=\"18\" height=\"46\" align=\"middle\" alt=\"mc006-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc006-3.jpg\" border=\"0\"\u003E"
+          "id": "7728",
+          "jawaban": "Sakadang Maung"
         },
         {
-          "id": "603",
-          "jawaban": "\u003Cimg width=\"11\" height=\"46\" align=\"middle\" alt=\"mc006-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc006-4.jpg\" border=\"0\"\u003E"
+          "id": "7730",
+          "jawaban": "Sasakala Panjalu"
         },
         {
-          "id": "601",
-          "jawaban": "\u003Cimg width=\"18\" height=\"46\" align=\"middle\" alt=\"mc006-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc006-2.jpg\" border=\"0\"\u003E"
+          "id": "7726",
+          "jawaban": "Sasakala Kaliwedi"
         },
         {
-          "id": "605",
-          "jawaban": "12"
+          "id": "7729",
+          "jawaban": "Sakadang Kuya"
+        }
+      ]
+    },
+    {
+      "id": "1538",
+      "question": "Pék titenan kalimah ieu!\u003Cbr\u003E\u003Cbr\u003E\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"175\" height=\"25\" align=\"bottom\" alt=\"mc008-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc008-1.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003Cspan style=\"font-size:14pt\"\u003E\u003Cbr\u003E\u003Cbr\u003E\u003C/span\u003EKalimah di luhur hartina.........",
+      "jawaban_soal_id": "7687",
+      "answers": [
+        {
+          "id": "7689",
+          "jawaban": "Bapa mawa calana"
+        },
+        {
+          "id": "7687",
+          "jawaban": "Bapa mawa saha"
+        },
+        {
+          "id": "7686",
+          "jawaban": "Mama mawa saha"
+        },
+        {
+          "id": "7688",
+          "jawaban": "Saha mawa mama"
+        },
+        {
+          "id": "7690",
+          "jawaban": "Bapa mama"
+        }
+      ]
+    },
+    {
+      "id": "1558",
+      "question": "Runtuyan kajadian anu lumangsung ti awal nepi ka ahir carita disebutna galur, galur maju dikenal ku istilah?",
+      "jawaban_soal_id": "7789",
+      "answers": [
+        {
+          "id": "7787",
+          "jawaban": "Flashback"
+        },
+        {
+          "id": "7786",
+          "jawaban": "Campuran"
+        },
+        {
+          "id": "7788",
+          "jawaban": "Mundur"
+        },
+        {
+          "id": "7789",
+          "jawaban": "Mérélé"
+        },
+        {
+          "id": "7790",
+          "jawaban": "Amanat"
+        }
+      ]
+    },
+    {
+      "id": "1540",
+      "question": "\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"139\" height=\"27\" align=\"bottom\" alt=\"mc010-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc010-1.jpg\" border=\"0\"\u003E\u003Cbr\u003E\u003C/span\u003EKalimah di luhur miboga harti .....",
+      "jawaban_soal_id": "7698",
+      "answers": [
+        {
+          "id": "7700",
+          "jawaban": "Caca mawa lala?"
+        },
+        {
+          "id": "7697",
+          "jawaban": "Lala mawa saha?"
+        },
+        {
+          "id": "7696",
+          "jawaban": "Bapa mawa saha?"
+        },
+        {
+          "id": "7698",
+          "jawaban": "Lala mawa caca?"
+        },
+        {
+          "id": "7699",
+          "jawaban": "Mama mawa saha?"
+        }
+      ]
+    },
+    {
+      "id": "1544",
+      "question": "\u003Cdiv style=\"text-align:justify\"\u003EPabel mangrupa dongéng anu eusina papatah, palakuna réréana sasatoan. Nu kaasup kana sempalan dongéng pabel nya éta .....\u003C/div\u003E",
+      "jawaban_soal_id": "7719",
+      "answers": [
+        {
+          "id": "7720",
+          "jawaban": "Kacaritakeun manéhna téh meuli kalde, sawatara poé henteu ka dayeuh, ngumpulkeun heula suluhna, supaya rada loba."
+        },
+        {
+          "id": "7718",
+          "jawaban": "Kacaturkeun Prabu Brongosngora, anak kadua Prabu Cakradéwata. Ari Prabu Cakradéwata téh raja karajaan Panjalu anu kawentar gagah tur sakti."
+        },
+        {
+          "id": "7716",
+          "jawaban": "Ceuk Ninina, “Kabayan ulah kabeurangan waé, euseuh pisan gawé manéh mah, ngala-ngala tutut atuh da ari dahar mah kudu."
+        },
+        {
+          "id": "7717",
+          "jawaban": "Ceuk sasakalana mah, éta situ téh asal-muasalna kieu. Baheula aya hiji randa beunghar ngaranna Nyi Éndit. Ari ngaran aslina mah Nyi Bagendit."
+        },
+        {
+          "id": "7719",
+          "jawaban": "Kacaritakeun diantara bangsa gagak, aya hiji gagak ngora, gagak jala nu keur meujeuhna belekensenteng, ngaranna Si Candrika."
+        }
+      ]
+    },
+    {
+      "id": "1550",
+      "question": "Dongéng téh kaasup kana carita balaréa jeung geus milik rahayat. Dongéng dina sastra Sunda loba anu geus kolot umurna, jeung \u003Cb\u003Eteu kapaluruh iraha jeung saha anu ngarangna\u003C/b\u003E, anu sok disebut ku istilah .......",
+      "jawaban_soal_id": "7748",
+      "answers": [
+        {
+          "id": "7749",
+          "jawaban": "Homonim"
+        },
+        {
+          "id": "7746",
+          "jawaban": "Antonin"
+        },
+        {
+          "id": "7747",
+          "jawaban": "Sinonim"
+        },
+        {
+          "id": "7748",
+          "jawaban": "Anonim"
+        },
+        {
+          "id": "7750",
+          "jawaban": "Homograf"
         }
       ]
     }
