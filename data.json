@@ -2,1082 +2,677 @@
   "status": "200",
   "data": [
     {
-      "id": "915",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EPembentukan Panitia Persiapan Kemerdekaan Indonesia (PPKI) pada tanggal ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4571",
+      "id": "118",
+      "question": "Nilai dari \u003Cimg width=\"86\" height=\"69\" align=\"middle\" alt=\"mc003-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc003-1.jpg\" border=\"0\"\u003Eadalah ....",
+      "jawaban_soal_id": "588",
       "answers": [
         {
-          "id": "4575",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E06 Agustus 1945\u003C/span\u003E"
+          "id": "590",
+          "jawaban": "16"
         },
         {
-          "id": "4573",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E14 Agustus 1945\u003C/span\u003E"
+          "id": "589",
+          "jawaban": "8"
         },
         {
-          "id": "4574",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E17 Agustus 1945\u003C/span\u003E"
+          "id": "588",
+          "jawaban": "4"
         },
         {
-          "id": "4572",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E9 Agustus 1945\u003C/span\u003E"
+          "id": "586",
+          "jawaban": "1"
         },
         {
-          "id": "4571",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E22 Juni 1945\u003C/span\u003E"
+          "id": "587",
+          "jawaban": "2"
         }
       ]
     },
     {
-      "id": "929",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003EPraktik Gotong Royong yang dapat dilakukan  di lingkungan sekolah berupa ……\u003C/span\u003E",
-      "jawaban_soal_id": "4643",
+      "id": "129",
+      "question": "Diketahui barisan aritmetika :\u003Cbr\u003E4 , 7 , 10 , 13 , 16 , 19 , ....\u003Cbr\u003Emaka rumus suku ke n (U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc014-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc014-1.jpg\" border=\"0\"\u003E) adalah ....",
+      "jawaban_soal_id": "645",
       "answers": [
         {
-          "id": "4643",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMenghias taman Kelas\u003C/span\u003E"
+          "id": "644",
+          "jawaban": "U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc014-5.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc014-5.jpg\" border=\"0\"\u003E = 3n - 1"
         },
         {
-          "id": "4644",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPemilihan Osis\u003C/span\u003E"
+          "id": "643",
+          "jawaban": "U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc014-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc014-4.jpg\" border=\"0\"\u003E = 4n"
         },
         {
-          "id": "4641",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESenam Pagi\u003C/span\u003E"
+          "id": "641",
+          "jawaban": "U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc014-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc014-2.jpg\" border=\"0\"\u003E = 2n + 2"
         },
         {
-          "id": "4642",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EUpacara Bendera’\u003C/span\u003E"
+          "id": "642",
+          "jawaban": "U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc014-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc014-3.jpg\" border=\"0\"\u003E = 5n - 1"
         },
         {
-          "id": "4645",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMengerjakan Tugas dari guru\u003C/span\u003E"
+          "id": "645",
+          "jawaban": "U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc014-6.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc014-6.jpg\" border=\"0\"\u003E = 3n + 1"
         }
       ]
     },
     {
-      "id": "932",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003ENegara Indonesia memiliki 2 jenis Konstitusi,  UUD 1945 Merupakan jenis Konstitusi …….\u003C/span\u003E",
-      "jawaban_soal_id": "4656",
+      "id": "138",
+      "question": "Pada barisan geometri diketahui U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc023-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc023-1.jpg\" border=\"0\"\u003E=4 dan U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc023-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc023-2.jpg\" border=\"0\"\u003E=16.\u003Cbr\u003EMaka nilai suku ke 8 (U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc023-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc023-3.jpg\" border=\"0\"\u003E) adalah",
+      "jawaban_soal_id": "687",
       "answers": [
         {
-          "id": "4660",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EAgenda\u003C/span\u003E"
+          "id": "687",
+          "jawaban": "-64 atau 64"
         },
         {
-          "id": "4657",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ETidak Tertulis\u003C/span\u003E"
+          "id": "690",
+          "jawaban": "256"
         },
         {
-          "id": "4659",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EDokumen\u003C/span\u003E"
+          "id": "689",
+          "jawaban": "-128 atau 128"
         },
         {
-          "id": "4658",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EArsip\u003C/span\u003E"
+          "id": "688",
+          "jawaban": "128"
         },
         {
-          "id": "4656",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ETertulis\u003C/span\u003E"
+          "id": "686",
+          "jawaban": "64"
         }
       ]
     },
     {
-      "id": "909",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EDasar Negara Indonesia merdeka  di sampaikan  Ir. Soekarno dalam sidang BPUPK  pada tanggal …………………..\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4541",
+      "id": "124",
+      "question": "Nilai dari \u003Cimg width=\"7\" height=\"19\" align=\"bottom\" alt=\"mc009-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc009-1.jpg\" border=\"0\"\u003Elog 25. \u003Cimg width=\"17\" height=\"19\" align=\"bottom\" alt=\"mc009-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc009-2.jpg\" border=\"0\"\u003Elog 27. \u003Cimg width=\"7\" height=\"19\" align=\"bottom\" alt=\"mc009-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc009-3.jpg\" border=\"0\"\u003Elog 4 adalah ....",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4542",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E29 Mei 1945\u003C/span\u003E"
+          "id": "620",
+          "jawaban": "1"
         },
         {
-          "id": "4544",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E31 Mei 1945\u003C/span\u003E"
+          "id": "617",
+          "jawaban": "4"
         },
         {
-          "id": "4545",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E1 Juni 1945\u003C/span\u003E"
+          "id": "618",
+          "jawaban": "3"
         },
         {
-          "id": "4543",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E30 Mei 1945\u003C/span\u003E"
+          "id": "619",
+          "jawaban": "2"
         },
         {
-          "id": "4541",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E28 Mei 1945\u003C/span\u003E"
+          "id": "616",
+          "jawaban": "5"
         }
       ]
     },
     {
-      "id": "923",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EDalam konteks kehidupan berbangsa, keadilan dapat bermakna bahwa setiap bangsa Indonesia berada dalam posisi yang setara baik terkait dengan harkat, martabat, hak dan kewajibannya.\u003Cbr\u003E\u003C/span\u003E\u003C/div\u003E\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EHal ini termasuk penerapan Pancasila sila ke ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4615",
+      "id": "123",
+      "question": "Dengan menggunakan sifat logaritma, maka nilai \u003Cimg width=\"8\" height=\"20\" align=\"bottom\" alt=\"mc008-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc008-1.jpg\" border=\"0\"\u003Elog 64  -  \u003Cimg width=\"8\" height=\"20\" align=\"bottom\" alt=\"mc008-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc008-2.jpg\" border=\"0\"\u003Elog 16  = . . .",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4613",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESila ke tiga\u003C/span\u003E"
+          "id": "615",
+          "jawaban": "5"
         },
         {
-          "id": "4612",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESila ke dua\u003C/span\u003E"
+          "id": "612",
+          "jawaban": "2"
         },
         {
-          "id": "4614",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESila ke empat\u003C/span\u003E"
+          "id": "614",
+          "jawaban": "4"
         },
         {
-          "id": "4611",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESila pertama\u003C/span\u003E"
+          "id": "613",
+          "jawaban": "3"
         },
         {
-          "id": "4615",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESila ke lima\u003C/span\u003E"
+          "id": "611",
+          "jawaban": "1"
         }
       ]
     },
     {
-      "id": "916",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EBangsa Indonesia memiliki pandangan hidup, dasar Negara dan ideologi  yaitu\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4578",
+      "id": "125",
+      "question": "Jika    log 2 = 0,3010 dan log 3 = 0,4771. Nilai dari log 12 adalah ....",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4578",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPancasila\u003C/span\u003E"
+          "id": "625",
+          "jawaban": "1,0791"
         },
         {
-          "id": "4577",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EBendera Merah Putih\u003C/span\u003E"
+          "id": "621",
+          "jawaban": "0,4673"
         },
         {
-          "id": "4579",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EBhineka Tunggal Ika\u003C/span\u003E"
+          "id": "622",
+          "jawaban": "0,6361"
         },
         {
-          "id": "4576",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EBurung Garuda\u003C/span\u003E"
+          "id": "623",
+          "jawaban": "0,8762"
         },
         {
-          "id": "4580",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EUUD NRI 1945\u003C/span\u003E"
+          "id": "624",
+          "jawaban": "1,0263"
         }
       ]
     },
     {
-      "id": "913",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EPanitia Persiapan Kemerdekaan Indonesia Melakukan Penghapusan Tujuh Kata pada Piagam Jakarta pada tanggal …\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4564",
+      "id": "132",
+      "question": "Pada barisan aritmetika diketahui \u003Cspan style=\"font-size:14pt\"\u003EU\u003Csub\u003E5\u003C/sub\u003E = \u003C/span\u003E18   dan  \u003Cspan style=\"font-size:14pt\"\u003EU\u003Csub\u003E12\u003C/sub\u003E = \u003C/span\u003E39, maka nilau \u003Cspan style=\"font-size:14pt\"\u003EU\u003Csub\u003E20\u003C/sub\u003E = ....\u003C/span\u003E",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4563",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E17 Agustus 1945\u003C/span\u003E"
+          "id": "660",
+          "jawaban": "56"
         },
         {
-          "id": "4564",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E18 Agustusb 1945\u003C/span\u003E"
+          "id": "656",
+          "jawaban": "63"
         },
         {
-          "id": "4561",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E1 Juni 1945\u003C/span\u003E"
+          "id": "658",
+          "jawaban": "60"
         },
         {
-          "id": "4565",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E19 Agustus 1945\u003C/span\u003E"
+          "id": "659",
+          "jawaban": "58"
         },
         {
-          "id": "4562",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E22 Juni 1945\u003C/span\u003E"
+          "id": "657",
+          "jawaban": "61"
         }
       ]
     },
     {
-      "id": "933",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EUndang undang Negara Republik Indonesia Tahun 1945 untuk pertama kalinya diganti oleh Konstitusi Republik Indonesia Serikat (RIS)  pada tanggal ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4665",
+      "id": "128",
+      "question": "Nilai dari     \u003Cimg width=\"100\" height=\"58\" align=\"middle\" alt=\"mc013-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc013-1.jpg\" border=\"0\"\u003E  adalah ....",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4661",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E12 Desember 1945\u003C/span\u003E"
+          "id": "639",
+          "jawaban": "3"
         },
         {
-          "id": "4662",
-          "jawaban": "\u003Cb\u003E\u003Cspan style=\"font-size:12pt\"\u003E27 Desember 1949\u003C/span\u003E\u003C/b\u003E"
+          "id": "638",
+          "jawaban": "2"
         },
         {
-          "id": "4665",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E6 Desember 1949\u003C/span\u003E"
+          "id": "637",
+          "jawaban": "1"
         },
         {
-          "id": "4663",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E15 Desember 1945\u003C/span\u003E"
+          "id": "640",
+          "jawaban": "4"
         },
         {
-          "id": "4664",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E22 Desember 1949\u003C/span\u003E"
+          "id": "636",
+          "jawaban": "0"
         }
       ]
     },
     {
-      "id": "930",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EAda dua jenis gotong royong yaitu ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4647",
+      "id": "140",
+      "question": "Seseorang menjatuhkan bola tenis dari sebuah atap gedung yang tingginya 18 m ke permukaan lantai yang keras dan rata. Setiap kali bola menyentuh lantai, bola tersebut akan memantul setinggi \u003Cimg width=\"9\" height=\"37\" align=\"middle\" alt=\"mc025-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc025-1.jpg\" border=\"0\"\u003E dari ketinggian sebelumnya. Maka panjang lintasan bola sampai bola berhenti memantul adalah ....",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4646",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EGotong royong tolong menolong dan gotong royong sendiri sendiri\u003C/span\u003E"
+          "id": "696",
+          "jawaban": "82 m"
         },
         {
-          "id": "4649",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EGotong royong tolong menolong dan gotong royong kerja sendiri\u003C/span\u003E"
+          "id": "699",
+          "jawaban": "96 m"
         },
         {
-          "id": "4647",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EGotong royong tolong menolong dan gotong royong kerja bakti\u003C/span\u003E"
+          "id": "697",
+          "jawaban": "86 m"
         },
         {
-          "id": "4650",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EGotong royong tolong menolong dan gotong royong sendirian\u003C/span\u003E"
+          "id": "700",
+          "jawaban": "100 m"
         },
         {
-          "id": "4648",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EGotong royong tolong menolong dan gotong royong tanpa tolong menolong\u003C/span\u003E"
+          "id": "698",
+          "jawaban": "90 m"
         }
       ]
     },
     {
-      "id": "937",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EBeberapa Pasal dalam UUD NRI Tahun 1945 yang berhubungan langsung dengan kehidupan sehari-hari salah satunya terkait dengan Hak dan Kewajiban Warga Negara yaitu termasuk dalam Pasal ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4682",
+      "id": "137",
+      "question": "Diketahui barisan geometri : 3 , 6 , 12 , 24 , 48 , .....\u003Cbr\u003EMaka suku ke 10 (U\u003Cimg width=\"12\" height=\"26\" align=\"middle\" alt=\"mc022-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc022-1.jpg\" border=\"0\"\u003E) barisan tersebut adalah ....",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4682",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 29\u003C/span\u003E"
+          "id": "685",
+          "jawaban": "1.653"
         },
         {
-          "id": "4684",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 27\u003C/span\u003E"
+          "id": "681",
+          "jawaban": "1.356"
         },
         {
-          "id": "4683",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 30\u003C/span\u003E"
+          "id": "683",
+          "jawaban": "1.563"
         },
         {
-          "id": "4685",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 33\u003C/span\u003E"
+          "id": "684",
+          "jawaban": "1.635"
         },
         {
-          "id": "4681",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 28\u003C/span\u003E"
+          "id": "682",
+          "jawaban": "1.536"
         }
       ]
     },
     {
-      "id": "924",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003ESelain berkomunikasi yang baik , media sosial juga digunakan untuk penggalangan dana korban banjir maupun bencana lainnya, yang dilakukan melalui media sosial, hal ini merupakan......\u003C/span\u003E",
-      "jawaban_soal_id": "4620",
+      "id": "117",
+      "question": "Nilai x yang memenuhi persamaan 2\u003Cimg width=\"25\" height=\"19\" align=\"bottom\" alt=\"mc002-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc002-1.jpg\" border=\"0\"\u003E = 4\u003Cimg width=\"25\" height=\"19\" align=\"bottom\" alt=\"mc002-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc002-2.jpg\" border=\"0\"\u003E adalah ....",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4620",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EKemudahan  Penerapan Pancasila\u003C/span\u003E"
+          "id": "584",
+          "jawaban": "3"
         },
         {
-          "id": "4619",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EAncaman Penerapan Pancasila\u003C/span\u003E"
+          "id": "582",
+          "jawaban": "-3"
         },
         {
-          "id": "4616",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPeluang Penerapan Pancasila\u003C/span\u003E"
+          "id": "585",
+          "jawaban": "4"
         },
         {
-          "id": "4617",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ETantangan Penerapan Pancasila\u003C/span\u003E"
+          "id": "583",
+          "jawaban": "-2"
         },
         {
-          "id": "4618",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EHambatan Penerapan Pancasila\u003C/span\u003E"
+          "id": "581",
+          "jawaban": "-4"
         }
       ]
     },
     {
-      "id": "938",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EPasal dalam UUD NRI Tahun 1945 yang terkait dengan Perekonomian Nasional dan Kesejahteraan Sosial  yaitu termasuk dalam Pasal ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4686",
+      "id": "119",
+      "question": "Bentuk sederhana dari (2\u003Cimg width=\"24\" height=\"23\" align=\"bottom\" alt=\"mc004-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc004-1.jpg\" border=\"0\"\u003E - \u003Cimg width=\"24\" height=\"23\" align=\"bottom\" alt=\"mc004-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc004-2.jpg\" border=\"0\"\u003E)  (2\u003Cimg width=\"24\" height=\"23\" align=\"bottom\" alt=\"mc004-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc004-3.jpg\" border=\"0\"\u003E + \u003Cimg width=\"24\" height=\"23\" align=\"bottom\" alt=\"mc004-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc004-4.jpg\" border=\"0\"\u003E )  adalah . . .",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4689",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 29\u003C/span\u003E"
+          "id": "595",
+          "jawaban": "7"
         },
         {
-          "id": "4687",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 33\u003C/span\u003E"
+          "id": "592",
+          "jawaban": "2\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc004-5.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc004-5.jpg\" border=\"0\"\u003E"
         },
         {
-          "id": "4690",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 34\u003C/span\u003E"
+          "id": "593",
+          "jawaban": "6"
         },
         {
-          "id": "4686",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 27\u003C/span\u003E"
+          "id": "591",
+          "jawaban": "2"
         },
         {
-          "id": "4688",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 28\u003C/span\u003E"
+          "id": "594",
+          "jawaban": "6\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc004-6.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc004-6.jpg\" border=\"0\"\u003E"
         }
       ]
     },
     {
-      "id": "920",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003E\u003Cbr\u003E\u003C/span\u003E\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EContoh penerapan sila pertama, yaitu Keýtuhanan Yanýg Maha Esa, dalam kehidupan sehari-hari adalah…\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4600",
+      "id": "126",
+      "question": "Jika log 2 = a dan log 5 = b, maka log 200 = ....",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4598",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMelakukan kegiatan ibadah sesuai dengan keyakinan masing-masing\u003C/span\u003E"
+          "id": "630",
+          "jawaban": "8a+25b"
         },
         {
-          "id": "4599",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMematuhi peraturan agama yang berlaku dalam kehidupan sehari-hari\u003C/span\u003E"
+          "id": "627",
+          "jawaban": "2a+3b"
         },
         {
-          "id": "4597",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMengikuti tradisi dan adat istiadat yang berkaitan dengan agama yang dianut\u003C/span\u003E"
+          "id": "628",
+          "jawaban": "4a+3b"
         },
         {
-          "id": "4596",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMenghormati dan menghargai keberagaman agama di lingkungan sekitar\u003C/span\u003E"
+          "id": "629",
+          "jawaban": "3a+4b"
         },
         {
-          "id": "4600",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESemua jawaban benar\u003C/span\u003E"
+          "id": "626",
+          "jawaban": "3a+2b"
         }
       ]
     },
     {
-      "id": "936",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EPasal dalam UUD NRI Tahun 1945 yang terkait dengan Pendidikan yaitu termasuk dalam Pasal ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4677",
+      "id": "135",
+      "question": "Diketahui deret aritmetika : 5 + 9 + 13 + 17 + .......\u003Cbr\u003EMaka jumlah 20 suku pertama (\u003Cspan style=\"font-size:14pt\"\u003ES\u003Csub\u003E20\u003C/sub\u003E) \u003C/span\u003Eadalah ....",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4678",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 28\u003C/span\u003E"
+          "id": "671",
+          "jawaban": "760"
         },
         {
-          "id": "4676",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 27\u003C/span\u003E"
+          "id": "673",
+          "jawaban": "820"
         },
         {
-          "id": "4680",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 34\u003C/span\u003E"
+          "id": "674",
+          "jawaban": "860"
         },
         {
-          "id": "4679",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 31\u003C/span\u003E"
+          "id": "672",
+          "jawaban": "780"
         },
         {
-          "id": "4677",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 33\u003C/span\u003E"
+          "id": "675",
+          "jawaban": "880"
         }
       ]
     },
     {
-      "id": "917",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EBPUPK mengadakan sidang pertama yang dilaksanakan tanggal 29 Mei 1945 sampai dengan 1 Juni 1945 membahas tentang….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4583",
+      "id": "139",
+      "question": "Diketahui deret geometri : 100 + 50 + 25 + 12,5 + ....\u003Cbr\u003EMaka jumlah deret tak hingga (S\u003Cspan style=\"font-family:'Symbol'\"\u003E¥\u003C/span\u003E)\u003Cimg width=\"6\" height=\"27\" align=\"middle\" alt=\"mc024-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc024-1.jpg\" border=\"0\"\u003Eadalah ....",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4585",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Ebendera Negara\u003C/span\u003E"
+          "id": "695",
+          "jawaban": "400"
         },
         {
-          "id": "4582",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Ebentuk Negara\u003C/span\u003E"
+          "id": "693",
+          "jawaban": "240"
         },
         {
-          "id": "4584",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Elembaga Negara\u003C/span\u003E"
+          "id": "691",
+          "jawaban": "200"
         },
         {
-          "id": "4583",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Edasar Negara\u003C/span\u003E"
+          "id": "694",
+          "jawaban": "300"
         },
         {
-          "id": "4581",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Elambang Negara\u003C/span\u003E"
+          "id": "692",
+          "jawaban": "210"
         }
       ]
     },
     {
-      "id": "910",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EDasar Negara Indonesia merdeka  di sampaikan Soepomo dalam sidang BPUPK  pada tanggal …………………..\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4548",
+      "id": "122",
+      "question": "Bentuk sederhana dari 3\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc007-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc007-1.jpg\" border=\"0\"\u003E + 2\u003Cimg width=\"31\" height=\"22\" align=\"bottom\" alt=\"mc007-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc007-2.jpg\" border=\"0\"\u003E - 12\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc007-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc007-3.jpg\" border=\"0\"\u003E = ....",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4549",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E31 Mei 1945\u003C/span\u003E"
+          "id": "609",
+          "jawaban": "2\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc007-7.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc007-7.jpg\" border=\"0\"\u003E"
         },
         {
-          "id": "4547",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E29 Mei 1945\u003C/span\u003E"
+          "id": "606",
+          "jawaban": "6\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc007-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc007-4.jpg\" border=\"0\"\u003E"
         },
         {
-          "id": "4548",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E30 Mei 1945\u003C/span\u003E"
+          "id": "607",
+          "jawaban": "-6\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc007-5.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc007-5.jpg\" border=\"0\"\u003E"
         },
         {
-          "id": "4550",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E1 Juni 1945\u003C/span\u003E"
+          "id": "608",
+          "jawaban": "4\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc007-6.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc007-6.jpg\" border=\"0\"\u003E"
         },
         {
-          "id": "4546",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E28 Mei 1945\u003C/span\u003E"
+          "id": "610",
+          "jawaban": "-2\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc007-8.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc007-8.jpg\" border=\"0\"\u003E"
         }
       ]
     },
     {
-      "id": "906",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EPeri kebangsaan, Peri kemanusiaan, Peri Ketuhanan, Peri Kerakyatan, Kesejahteraan rakyat .rumusan calon dasar negara tersebut di atas merupakan usulan dari….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4528",
+      "id": "136",
+      "question": "Pada deret aritmetika, rumus jumlah sampai suku ke n adalah  \u003Cspan style=\"font-size:14pt\"\u003ES\u003Csub\u003En\u003C/sub\u003E = n\u003Csup\u003E2 \u003C/sup\u003E+ 8n, \u003C/span\u003Emaka nilai \u003Cspan style=\"font-size:14pt\"\u003EU\u003Csub\u003E10\u003C/sub\u003E = ....\u003C/span\u003E",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4528",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIr, Soekarno\u003C/span\u003E"
+          "id": "680",
+          "jawaban": "27"
         },
         {
-          "id": "4530",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EHatta\u003C/span\u003E"
+          "id": "677",
+          "jawaban": "24"
         },
         {
-          "id": "4526",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESoepomo\u003C/span\u003E"
+          "id": "676",
+          "jawaban": "23"
         },
         {
-          "id": "4529",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESayuti Melik\u003C/span\u003E"
+          "id": "678",
+          "jawaban": "25"
         },
         {
-          "id": "4527",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMohammad Yamin\u003C/span\u003E"
+          "id": "679",
+          "jawaban": "26"
         }
       ]
     },
     {
-      "id": "935",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003EUndang-Undang Dasar 1945 mengalami perubahan atau perbaikan ( Amandemen)  sebanyak ….\u003C/span\u003E",
-      "jawaban_soal_id": "4674",
+      "id": "116",
+      "question": "Nilai dari 27\u003Cimg width=\"10\" height=\"30\" align=\"bottom\" alt=\"mc001-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc001-1.jpg\" border=\"0\"\u003E+ 4\u003Cimg width=\"10\" height=\"30\" align=\"bottom\" alt=\"mc001-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc001-2.jpg\" border=\"0\"\u003E- 125\u003Cimg width=\"10\" height=\"30\" align=\"bottom\" alt=\"mc001-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc001-3.jpg\" border=\"0\"\u003E",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4671",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EI\u003C/span\u003E"
+          "id": "580",
+          "jawaban": "15"
         },
         {
-          "id": "4672",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EII\u003C/span\u003E"
+          "id": "576",
+          "jawaban": "10"
         },
         {
-          "id": "4674",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIV\u003C/span\u003E"
+          "id": "579",
+          "jawaban": "14"
         },
         {
-          "id": "4673",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIII\u003C/span\u003E"
+          "id": "577",
+          "jawaban": "12"
         },
         {
-          "id": "4675",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EV\u003C/span\u003E"
+          "id": "578",
+          "jawaban": "13"
         }
       ]
     },
     {
-      "id": "922",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EBahwa segala keputusan di lingkungan masyarakat harus dilakukan dengan penuh hikmat kebijaksanaan melalui mekanisme musyawarah, hal ini ditegaskan dalam sila ke ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4609",
+      "id": "120",
+      "question": "Penyederhanaan dari bentuk \u003Cimg width=\"20\" height=\"37\" align=\"middle\" alt=\"mc005-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc005-1.jpg\" border=\"0\"\u003E adalah ....",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4610",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EKeadilan sosial bagi seluruh rakyat Indonesia\u003C/span\u003E"
+          "id": "597",
+          "jawaban": "3\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc005-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc005-3.jpg\" border=\"0\"\u003E"
         },
         {
-          "id": "4609",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EKerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan\u003C/span\u003E"
+          "id": "596",
+          "jawaban": "6\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc005-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc005-2.jpg\" border=\"0\"\u003E"
         },
         {
-          "id": "4607",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EKemanusiaan yang adil dan beradab\u003C/span\u003E"
+          "id": "598",
+          "jawaban": "2\u003Cimg width=\"24\" height=\"22\" align=\"bottom\" alt=\"mc005-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc005-4.jpg\" border=\"0\"\u003E"
         },
         {
-          "id": "4606",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EKetuhanan yang Maha Esa\u003C/span\u003E"
+          "id": "600",
+          "jawaban": "3"
         },
         {
-          "id": "4608",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPersatuan Indonesia\u003C/span\u003E"
+          "id": "599",
+          "jawaban": "2"
         }
       ]
     },
     {
-      "id": "926",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EBeberapa tantangan penerapan Pancasila yang bersumber pada media sosial antara lain …. \u003Ci\u003EKecuali ….\u003C/i\u003E\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4630",
+      "id": "134",
+      "question": "Antara 8 dan 22 disisipkan 6 bilangan sehingga membentuk barisan aritmetika. Maka suku ke 4 dari barisan tersebut adalah ....",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4629",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPenyebaran HOAKS\u003C/span\u003E"
+          "id": "670",
+          "jawaban": "18"
         },
         {
-          "id": "4626",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ERadikalisme\u003C/span\u003E"
+          "id": "667",
+          "jawaban": "12"
         },
         {
-          "id": "4630",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ETiktok an\u003C/span\u003E"
+          "id": "669",
+          "jawaban": "16"
         },
         {
-          "id": "4628",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIntoleransi\u003C/span\u003E"
+          "id": "666",
+          "jawaban": "10"
         },
         {
-          "id": "4627",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EUjaran Kebencian\u003C/span\u003E"
+          "id": "668",
+          "jawaban": "14"
         }
       ]
     },
     {
-      "id": "939",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003ESetiap orang berhak memeluk agama dan beribadat menurut agamanya, memilih pendidikan dan pengajaran, memilih pekerjaan, memilih kewarganegaraan, memilih tempat tinggal di wilayah Negara dan meninggalkannya, serta berhak kembali, bunyi dari pasal dan ayat berapa …..\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4694",
+      "id": "127",
+      "question": "Nilai dari \u003Cimg width=\"7\" height=\"19\" align=\"bottom\" alt=\"mc012-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc012-1.jpg\" border=\"0\"\u003Elog 8 + \u003Cimg width=\"7\" height=\"19\" align=\"bottom\" alt=\"mc012-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc012-2.jpg\" border=\"0\"\u003Elog 12,5 - \u003Cimg width=\"7\" height=\"19\" align=\"bottom\" alt=\"mc012-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc012-3.jpg\" border=\"0\"\u003Elog 25 = ....",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4691",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 28 H ayat 1\u003C/span\u003E"
+          "id": "632",
+          "jawaban": "1"
         },
         {
-          "id": "4692",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 28 G ayat 1\u003C/span\u003E"
+          "id": "634",
+          "jawaban": "3"
         },
         {
-          "id": "4695",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 28 J ayat 1\u003C/span\u003E"
+          "id": "633",
+          "jawaban": "2"
         },
         {
-          "id": "4694",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 28 E ayat 1\u003C/span\u003E"
+          "id": "631",
+          "jawaban": "-2"
         },
         {
-          "id": "4693",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 28 B ayat 1\u003C/span\u003E"
+          "id": "635",
+          "jawaban": "4"
         }
       ]
     },
     {
-      "id": "918",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EHari Lahir Pancasila yaitu ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4589",
+      "id": "131",
+      "question": "Pada barisan aritmetika : 7, 12, 17, 22, ......., 102.\u003Cbr\u003EMaka banyaknya suku barisan tersebut adalah ....",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4590",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E29 Aril 1945\u003C/span\u003E"
+          "id": "652",
+          "jawaban": "20"
         },
         {
-          "id": "4588",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E22 Juni 1945\u003C/span\u003E"
+          "id": "655",
+          "jawaban": "25"
         },
         {
-          "id": "4586",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E29 Juni 1945\u003C/span\u003E"
+          "id": "654",
+          "jawaban": "24"
         },
         {
-          "id": "4587",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E31 Mei 1945\u003C/span\u003E"
+          "id": "651",
+          "jawaban": "18"
         },
         {
-          "id": "4589",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E1 Juni 1945\u003C/span\u003E"
+          "id": "653",
+          "jawaban": "22"
         }
       ]
     },
     {
-      "id": "942",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EAda 4 jenis norma yakni ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4706",
+      "id": "130",
+      "question": "Diketahui barisan aritmetika :\u003Cbr\u003E8, 8\u003Cimg width=\"9\" height=\"37\" align=\"middle\" alt=\"mc015-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc015-1.jpg\" border=\"0\"\u003E, 9, 9\u003Cimg width=\"9\" height=\"37\" align=\"middle\" alt=\"mc015-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc015-2.jpg\" border=\"0\"\u003E, 10, ....\u003Cbr\u003Emaka nilai suku ke 41 (U\u003Cimg width=\"12\" height=\"26\" align=\"middle\" alt=\"mc015-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc015-3.jpg\" border=\"0\"\u003E) adalah ....",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4709",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma susila, Norma kaidah, Norma agama, Norma hukum\u003C/span\u003E"
+          "id": "649",
+          "jawaban": "28"
         },
         {
-          "id": "4707",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma susila, Norma aturan, Norma agama, Norma hukum\u003C/span\u003E"
+          "id": "647",
+          "jawaban": "27"
         },
         {
-          "id": "4706",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma susila, Norma sosial, Norma agama, Norma hukum\u003C/span\u003E"
+          "id": "646",
+          "jawaban": "26\u003Cimg width=\"9\" height=\"37\" align=\"middle\" alt=\"mc015-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc015-4.jpg\" border=\"0\"\u003E"
         },
         {
-          "id": "4710",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma susila, Norma sosial, Norma agama, Norma Ukuran\u003C/span\u003E"
+          "id": "650",
+          "jawaban": "28\u003Cimg width=\"9\" height=\"37\" align=\"middle\" alt=\"mc015-6.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc015-6.jpg\" border=\"0\"\u003E"
         },
         {
-          "id": "4708",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma susila, Norma sosial, Norma agama, Norma pergaulan\u003C/span\u003E"
+          "id": "648",
+          "jawaban": "27\u003Cimg width=\"9\" height=\"37\" align=\"middle\" alt=\"mc015-5.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc015-5.jpg\" border=\"0\"\u003E"
         }
       ]
     },
     {
-      "id": "934",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003ESetelah UUD NRI Tahun 1945 di sahkan oleh PPKI pada tanggal 18 Agustus 1945. Mengalami perubahan menjadi UUD RIS tahun 1949 kemudian pada Tahun 1950 kembali mengalami berubah menjadi ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4667",
+      "id": "133",
+      "question": "Pada barisan aritmetika diketahui U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc018-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc018-1.jpg\" border=\"0\"\u003E + U\u003Cimg width=\"7\" height=\"26\" align=\"middle\" alt=\"mc018-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc018-2.jpg\" border=\"0\"\u003E = 36  dan  U\u003Cimg width=\"12\" height=\"26\" align=\"middle\" alt=\"mc018-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc018-3.jpg\" border=\"0\"\u003E = 30, maka nilai U\u003Cimg width=\"12\" height=\"26\" align=\"middle\" alt=\"mc018-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc018-4.jpg\" border=\"0\"\u003E = ....",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4670",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ETap MPR\u003C/span\u003E"
+          "id": "662",
+          "jawaban": "38"
         },
         {
-          "id": "4666",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EUUDS\u003C/span\u003E"
+          "id": "664",
+          "jawaban": "45"
         },
         {
-          "id": "4669",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPerda\u003C/span\u003E"
+          "id": "665",
+          "jawaban": "50"
         },
         {
-          "id": "4668",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EKepmen\u003C/span\u003E"
+          "id": "661",
+          "jawaban": "36"
         },
         {
-          "id": "4667",
-          "jawaban": "\u003Cb\u003E\u003Cspan style=\"font-size:12pt\"\u003EUndang - undang\u003C/span\u003E\u003C/b\u003E"
+          "id": "663",
+          "jawaban": "40"
         }
       ]
     },
     {
-      "id": "919",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EApa yang menjadi nilai utama yang terkandung dari sila kedua dalam Pancasila?\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4592",
+      "id": "121",
+      "question": "Jika a = 4, b = 9 dan c = 27, nilai dari \u003Cimg width=\"70\" height=\"91\" align=\"middle\" alt=\"mc006-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc006-1.jpg\" border=\"0\"\u003E",
+      "jawaban_soal_id": null,
       "answers": [
         {
-          "id": "4592",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENilai Kemanusiaan\u003C/span\u003E"
+          "id": "604",
+          "jawaban": "6"
         },
         {
-          "id": "4595",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENilai Keadilan\u003C/span\u003E"
+          "id": "602",
+          "jawaban": "\u003Cimg width=\"18\" height=\"46\" align=\"middle\" alt=\"mc006-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc006-3.jpg\" border=\"0\"\u003E"
         },
         {
-          "id": "4591",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENilai Ketuhanan\u003C/span\u003E"
+          "id": "603",
+          "jawaban": "\u003Cimg width=\"11\" height=\"46\" align=\"middle\" alt=\"mc006-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc006-4.jpg\" border=\"0\"\u003E"
         },
         {
-          "id": "4593",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENilai Persatuan\u003C/span\u003E"
+          "id": "601",
+          "jawaban": "\u003Cimg width=\"18\" height=\"46\" align=\"middle\" alt=\"mc006-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/3c1e9860b6edbf97c61d909656d811a1/mc006-2.jpg\" border=\"0\"\u003E"
         },
         {
-          "id": "4594",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENilai Kerakyatan\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "941",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EKaidah, aturan atau ketentuan yang mengikat warga kelompok dalam masyarakat, dipakai sebagai panduan, tatanan, dan pengendali tingkah laku pergaulan dalam masyarakat, kalimat diatas adalah pengertian dari ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4702",
-      "answers": [
-        {
-          "id": "4702",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma\u003C/span\u003E"
-        },
-        {
-          "id": "4705",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESolidaritas\u003C/span\u003E"
-        },
-        {
-          "id": "4703",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EHoaks\u003C/span\u003E"
-        },
-        {
-          "id": "4701",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ERas\u003C/span\u003E"
-        },
-        {
-          "id": "4704",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIdeology\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "911",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EDasar Negara Indonesia merdeka  di sampaikan Moh. Yamin   dalam sidang BPUPK  pada tanggal …………………..\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4554",
-      "answers": [
-        {
-          "id": "4552",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E29 Mei 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4554",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E31 Mei 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4553",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E30 Mei 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4555",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E1 Juni 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4551",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E28 Mei 1945\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "907",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EKebangsaan Indonesia,Peri kemanusiaan atau internasionalisme, Mufakat atau demokrasi, Kesejahteraan sosial, dan Ketuhanan. rumusan calon dasar negara tersebut di atas merupakan usulan dari….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4531",
-      "answers": [
-        {
-          "id": "4535",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EHatta\u003C/span\u003E"
-        },
-        {
-          "id": "4533",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIr, Soekarno\u003C/span\u003E"
-        },
-        {
-          "id": "4534",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESayuti Melik\u003C/span\u003E"
-        },
-        {
-          "id": "4532",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMohammad Yamin\u003C/span\u003E"
-        },
-        {
-          "id": "4531",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESoepomo\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "921",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003E\u003Cbr\u003E\u003C/span\u003E\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003ESeorang siswa sekolah terlibat dalam aksi sosial untuk menggalang dana bagi anak-anak panti asuhan. Ia mengumpulkan sumbangan dari teman sekelasnya, guru, dan warga sekitar. Tindakan tersebut mencerminkan penerapan Pancasila dari sila keberapa?\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4602",
-      "answers": [
-        {
-          "id": "4602",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESýila Kedua\u003C/span\u003E"
-        },
-        {
-          "id": "4604",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESýila Keempat\u003C/span\u003E"
-        },
-        {
-          "id": "4601",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESýila Pertama\u003C/span\u003E"
-        },
-        {
-          "id": "4605",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESýila Kelima\u003C/span\u003E"
-        },
-        {
-          "id": "4603",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESýila Ketiga\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "914",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EKesepakatan Panitia Sembilan, yang didalamnya terdapat tujuh kata dengan kewajiban menjalankan syariat Islam bagi pemeluk -  pemeluknya dinamakan….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4568",
-      "answers": [
-        {
-          "id": "4569",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EDekrit Presiden\u003C/span\u003E"
-        },
-        {
-          "id": "4566",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESumpah Pemuda\u003C/span\u003E"
-        },
-        {
-          "id": "4570",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EUUD Negara RI Tahun 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4567",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPancasila\u003C/span\u003E"
-        },
-        {
-          "id": "4568",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPiagam Jakarta\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "928",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003EKegiatan yang dapat meningkatkan Solidaritas Sosial dan meringankan beban orang lain serta meningkatkan rasa kerja sama merupakan ……\u003C/span\u003E",
-      "jawaban_soal_id": "4638",
-      "answers": [
-        {
-          "id": "4640",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMakna Tenggang Rasa\u003C/span\u003E"
-        },
-        {
-          "id": "4638",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMakna Gotong Royong\u003C/span\u003E"
-        },
-        {
-          "id": "4636",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMakna Toleransi\u003C/span\u003E"
-        },
-        {
-          "id": "4637",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMakna Rasisme\u003C/span\u003E"
-        },
-        {
-          "id": "4639",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMakna Musyawarah\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "945",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EPenempatan Pancasila sebagai sumber dari segala hukum negera sesuai dengan pembukaan Undang-undang Dasar Negara Republik Indonesia Tahun 1945 terdapat pada alinea ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4724",
-      "answers": [
-        {
-          "id": "4722",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EII\u003C/span\u003E"
-        },
-        {
-          "id": "4725",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESemua Jawaban Benar\u003C/span\u003E"
-        },
-        {
-          "id": "4724",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIV\u003C/span\u003E"
-        },
-        {
-          "id": "4721",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EI\u003C/span\u003E"
-        },
-        {
-          "id": "4723",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIII\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "931",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003EHukum dasar tertinggi yang bersifat Fundamental di Negara Idonesia adalah ….\u003C/span\u003E",
-      "jawaban_soal_id": "4652",
-      "answers": [
-        {
-          "id": "4651",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EUndang – Undang\u003C/span\u003E"
-        },
-        {
-          "id": "4652",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EUndang – Undang Dasar 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4654",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPeraturan Pemerintah\u003C/span\u003E"
-        },
-        {
-          "id": "4655",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPeraturan Daerah\u003C/span\u003E"
-        },
-        {
-          "id": "4653",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPancasila\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "927",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003ESebuah Konsep Saling membantu satu sama lain dalam melaksanakan  kegiatan sosial merupakan bentuk dari proyek ……….\u003C/span\u003E",
-      "jawaban_soal_id": "4631",
-      "answers": [
-        {
-          "id": "4635",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMusyawarah\u003C/span\u003E"
-        },
-        {
-          "id": "4632",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Erasisme\u003C/span\u003E"
-        },
-        {
-          "id": "4633",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Etoleransi\u003C/span\u003E"
-        },
-        {
-          "id": "4631",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Egotong royong\u003C/span\u003E"
-        },
-        {
-          "id": "4634",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Etenggang rasa\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "925",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003ESelain hoaks, media sosial juga digunakan untuk menyebarkan ujaran kebencian, pemikiran intoleransi dan radikalisme. Sejumlah lembaga penelitian telah menun-jukkan betapa masifnya penyebaran hoaks, ujaran kebencian, intoleransi dan radika-lisme yang dilakukan melalui media sosial, hal ini merupakan.... dalam penerapan pancasila\u003C/span\u003E",
-      "jawaban_soal_id": "4622",
-      "answers": [
-        {
-          "id": "4621",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPeluang Penerapan Pancasila\u003C/span\u003E"
-        },
-        {
-          "id": "4625",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EKendala Penerapan Pancasila\u003C/span\u003E"
-        },
-        {
-          "id": "4623",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EHambatan Penerapan Pancasila\u003C/span\u003E"
-        },
-        {
-          "id": "4624",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EAncaman Penerapan Pancasila\u003C/span\u003E"
-        },
-        {
-          "id": "4622",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ETantangan Penerapan Pancasila\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "940",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003ENorma tingkah laku, Norma sosial, Norma agama, Norma hokum Fakir miskin dan anak-anak terlantar dipelihara oleh Negara, bunyi dari pasal dan ayat berapa ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4697",
-      "answers": [
-        {
-          "id": "4698",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 34 ayat 1\u003C/span\u003E"
-        },
-        {
-          "id": "4696",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 33 ayat 1\u003C/span\u003E"
-        },
-        {
-          "id": "4699",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 34 ayat 2\u003C/span\u003E"
-        },
-        {
-          "id": "4700",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 34 ayat 3\u003C/span\u003E"
-        },
-        {
-          "id": "4697",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 33 ayat 2\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "944",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003E\u003Cspan style=\"color:#14142b\"\u003ENazila merupakan seorang anak yang selalu mempertimbangkan baik atau buruknya dalam setiap perilaku yang dilakukan. Perilaku yang dilakukan Nazila merupakan contoh dari norma ...\u003C/span\u003E\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4717",
-      "answers": [
-        {
-          "id": "4719",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma sosial\u003C/span\u003E"
-        },
-        {
-          "id": "4720",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma kaidah\u003C/span\u003E"
-        },
-        {
-          "id": "4718",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma agama\u003C/span\u003E"
-        },
-        {
-          "id": "4717",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma susila\u003C/span\u003E"
-        },
-        {
-          "id": "4716",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma hukum\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "943",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EAturan pergaulan dalam Masyarakat yang bersumber dari ajaran agama . pengertian diatas disebut sebagai norma….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4713",
-      "answers": [
-        {
-          "id": "4712",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma susila\u003C/span\u003E"
-        },
-        {
-          "id": "4713",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma agama\u003C/span\u003E"
-        },
-        {
-          "id": "4715",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma kaidah\u003C/span\u003E"
-        },
-        {
-          "id": "4714",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma sosial\u003C/span\u003E"
-        },
-        {
-          "id": "4711",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma hukum\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "908",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EPersatuan, Kekeluargaan, Keseimbangan lahir dan batin, Musyawarah, Keadilan Rakyat rumusan calon dasar negara tersebut di atas merupakan usulan dari….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4537",
-      "answers": [
-        {
-          "id": "4537",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMohammad Yamin\u003C/span\u003E"
-        },
-        {
-          "id": "4539",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESayuti Melik\u003C/span\u003E"
-        },
-        {
-          "id": "4540",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EHatta\u003C/span\u003E"
-        },
-        {
-          "id": "4538",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIr, Soekarno\u003C/span\u003E"
-        },
-        {
-          "id": "4536",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESoepomo\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "912",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EPiagam Jakarta yang disepakati pada tanggal 22 juni 1945 didasari atas......\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4558",
-      "answers": [
-        {
-          "id": "4556",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Ekepentingan golongan kebangsaan\u003C/span\u003E"
-        },
-        {
-          "id": "4557",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Etekanan dari pemerintah berkuasa yaitu jepang\u003C/span\u003E"
-        },
-        {
-          "id": "4558",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Emusyawarah dan mufakat\u003C/span\u003E"
-        },
-        {
-          "id": "4559",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Ekebijakan Ir.Soekarno\u003C/span\u003E"
-        },
-        {
-          "id": "4560",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Ekepentingan pribumi\u003C/span\u003E"
+          "id": "605",
+          "jawaban": "12"
         }
       ]
     }
