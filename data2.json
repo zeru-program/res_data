@@ -2,1082 +2,812 @@
   "status": "200",
   "data": [
     {
-      "id": "906",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EPeri kebangsaan, Peri kemanusiaan, Peri Ketuhanan, Peri Kerakyatan, Kesejahteraan rakyat .rumusan calon dasar negara tersebut di atas merupakan usulan dari….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "166",
+      "question": "Dongéng nu nyaritakeun kahirupan jalma biasa, tapi kalakuan atawa pasipatanana sok mahiwal ti batur disebut?",
+      "jawaban_soal_id": "829",
       "answers": [
         {
-          "id": "4530",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EHatta\u003C/span\u003E"
+          "id": "830",
+          "jawaban": "Mite"
         },
         {
-          "id": "4528",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIr, Soekarno\u003C/span\u003E"
+          "id": "828",
+          "jawaban": "Legenda"
         },
         {
-          "id": "4526",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESoepomo\u003C/span\u003E"
+          "id": "826",
+          "jawaban": "Pabel"
         },
         {
-          "id": "4527",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMohammad Yamin\u003C/span\u003E"
+          "id": "829",
+          "jawaban": "Sasakala"
         },
         {
-          "id": "4529",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESayuti Melik\u003C/span\u003E"
+          "id": "827",
+          "jawaban": "Parabel"
         }
       ]
     },
     {
-      "id": "938",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EPasal dalam UUD NRI Tahun 1945 yang terkait dengan Perekonomian Nasional dan Kesejahteraan Sosial  yaitu termasuk dalam Pasal ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "170",
+      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Ci\u003EJaman baheula, pernahna di wewengkon Karawang, kacaritakeun aya jajaka anu ngaranna Jaka Awang. Jaka Awang téh hiji lalaki langit lalanang jagat, sakti manggulang-mangguling. Harita Jaka Awang keur néangan adina nu ngarana Nyi Arum, nu lila leungit teuing ka mana.\u003Cbr\u003E\u003Cbr\u003E\u003C/i\u003E\u003C/div\u003ESempalan dongéng diluhur kaasup kana dongéng legenda nu judulna?",
+      "jawaban_soal_id": "847",
       "answers": [
         {
-          "id": "4687",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 33\u003C/span\u003E"
+          "id": "849",
+          "jawaban": "Sasakala Leuwigobang"
         },
         {
-          "id": "4689",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 29\u003C/span\u003E"
+          "id": "848",
+          "jawaban": "Sasakala Panjalu"
         },
         {
-          "id": "4686",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 27\u003C/span\u003E"
+          "id": "847",
+          "jawaban": "Sasakala Kaliwedi"
         },
         {
-          "id": "4688",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 28\u003C/span\u003E"
+          "id": "850",
+          "jawaban": "Sasakala Situ Bagendit"
         },
         {
-          "id": "4690",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 34\u003C/span\u003E"
+          "id": "846",
+          "jawaban": "Sasakala Tangkubanparahu"
         }
       ]
     },
     {
-      "id": "941",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EKaidah, aturan atau ketentuan yang mengikat warga kelompok dalam masyarakat, dipakai sebagai panduan, tatanan, dan pengendali tingkah laku pergaulan dalam masyarakat, kalimat diatas adalah pengertian dari ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "154",
+      "question": "\u003Cdiv style=\"text-align:justify\"\u003EPabel mangrupa dongéng anu eusina papatah, palakuna réréana sasatoan. Nu kaasup kana sempalan dongéng pabel nya éta .....\u003C/div\u003E",
+      "jawaban_soal_id": "769",
       "answers": [
         {
-          "id": "4705",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESolidaritas\u003C/span\u003E"
+          "id": "769",
+          "jawaban": "Kacaritakeun diantara bangsa gagak, aya hiji gagak ngora, gagak jala nu keur meujeuhna belekensenteng, ngaranna Si Candrika."
         },
         {
-          "id": "4703",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EHoaks\u003C/span\u003E"
+          "id": "767",
+          "jawaban": "Ceuk sasakalana mah, éta situ téh asal-muasalna kieu. Baheula aya hiji randa beunghar ngaranna Nyi Éndit. Ari ngaran aslina mah Nyi Bagendit."
         },
         {
-          "id": "4701",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ERas\u003C/span\u003E"
+          "id": "770",
+          "jawaban": "Kacaritakeun manéhna téh meuli kalde, sawatara poé henteu ka dayeuh, ngumpulkeun heula suluhna, supaya rada loba."
         },
         {
-          "id": "4704",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIdeology\u003C/span\u003E"
+          "id": "766",
+          "jawaban": "Ceuk Ninina, “Kabayan ulah kabeurangan waé, euseuh pisan gawé manéh mah, ngala-ngala tutut atuh da ari dahar mah kudu."
         },
         {
-          "id": "4702",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma\u003C/span\u003E"
+          "id": "768",
+          "jawaban": "Kacaturkeun Prabu Brongosngora, anak kadua Prabu Cakradéwata. Ari Prabu Cakradéwata téh raja karajaan Panjalu anu kawentar gagah tur sakti."
         }
       ]
     },
     {
-      "id": "933",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EUndang undang Negara Republik Indonesia Tahun 1945 untuk pertama kalinya diganti oleh Konstitusi Republik Indonesia Serikat (RIS)  pada tanggal ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "161",
+      "question": "Di handap ieu nu \u003Cb\u003Eteu kaasup\u003C/b\u003E kana ciri-ciri dongéng nya éta?",
+      "jawaban_soal_id": "805",
       "answers": [
         {
-          "id": "4664",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E22 Desember 1949\u003C/span\u003E"
+          "id": "804",
+          "jawaban": "Boga konvéksi"
         },
         {
-          "id": "4665",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E6 Desember 1949\u003C/span\u003E"
+          "id": "803",
+          "jawaban": "Boga improvisasi"
         },
         {
-          "id": "4662",
-          "jawaban": "\u003Cb\u003E\u003Cspan style=\"font-size:12pt\"\u003E27 Desember 1949\u003C/span\u003E\u003C/b\u003E"
+          "id": "801",
+          "jawaban": "Caritana basajan"
         },
         {
-          "id": "4661",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E12 Desember 1945\u003C/span\u003E"
+          "id": "802",
+          "jawaban": "Ngandung ajén atikan"
         },
         {
-          "id": "4663",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E15 Desember 1945\u003C/span\u003E"
+          "id": "805",
+          "jawaban": "Ngandung unsur pamohalan"
         }
       ]
     },
     {
-      "id": "942",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EAda 4 jenis norma yakni ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "144",
+      "question": "Rarangkén dina aksara Sunda kaganga nya éta lambang pikeun ngarobah sora vokal. Anu gunana pikeun ngaleungitkeun sora vokal aksara dasar anu miheulaan nya éta .....",
+      "jawaban_soal_id": "716",
       "answers": [
         {
-          "id": "4706",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma susila, Norma sosial, Norma agama, Norma hukum\u003C/span\u003E"
+          "id": "717",
+          "jawaban": "Panyiku"
         },
         {
-          "id": "4708",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma susila, Norma sosial, Norma agama, Norma pergaulan\u003C/span\u003E"
+          "id": "718",
+          "jawaban": "Pamaéh"
         },
         {
-          "id": "4709",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma susila, Norma kaidah, Norma agama, Norma hukum\u003C/span\u003E"
+          "id": "716",
+          "jawaban": "Pangwisad"
         },
         {
-          "id": "4707",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma susila, Norma aturan, Norma agama, Norma hukum\u003C/span\u003E"
+          "id": "720",
+          "jawaban": "Panolong"
         },
         {
-          "id": "4710",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma susila, Norma sosial, Norma agama, Norma Ukuran\u003C/span\u003E"
+          "id": "719",
+          "jawaban": "Pamingkal"
         }
       ]
     },
     {
-      "id": "925",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003ESelain hoaks, media sosial juga digunakan untuk menyebarkan ujaran kebencian, pemikiran intoleransi dan radikalisme. Sejumlah lembaga penelitian telah menun-jukkan betapa masifnya penyebaran hoaks, ujaran kebencian, intoleransi dan radika-lisme yang dilakukan melalui media sosial, hal ini merupakan.... dalam penerapan pancasila\u003C/span\u003E",
-      "jawaban_soal_id": null,
+      "id": "160",
+      "question": "Dongéng téh kaasup kana carita balaréa jeung geus milik rahayat. Dongéng dina sastra Sunda loba anu geus kolot umurna, jeung \u003Cb\u003Eteu kapaluruh iraha jeung saha anu ngarangna\u003C/b\u003E, anu sok disebut ku istilah .......",
+      "jawaban_soal_id": "798",
       "answers": [
         {
-          "id": "4621",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPeluang Penerapan Pancasila\u003C/span\u003E"
+          "id": "799",
+          "jawaban": "Homonim"
         },
         {
-          "id": "4624",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EAncaman Penerapan Pancasila\u003C/span\u003E"
+          "id": "796",
+          "jawaban": "Antonin"
         },
         {
-          "id": "4623",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EHambatan Penerapan Pancasila\u003C/span\u003E"
+          "id": "798",
+          "jawaban": "Anonim"
         },
         {
-          "id": "4622",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ETantangan Penerapan Pancasila\u003C/span\u003E"
+          "id": "800",
+          "jawaban": "Homograf"
         },
         {
-          "id": "4625",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EKendala Penerapan Pancasila\u003C/span\u003E"
+          "id": "797",
+          "jawaban": "Sinonim"
         }
       ]
     },
     {
-      "id": "929",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003EPraktik Gotong Royong yang dapat dilakukan  di lingkungan sekolah berupa ……\u003C/span\u003E",
-      "jawaban_soal_id": null,
+      "id": "145",
+      "question": "\u003Cspan style=\"font-size:12pt\"\u003EPék robah kalimah di handap ieu!\u003Cbr\u003E\u003C/span\u003E\u003Cimg width=\"277\" height=\"79\" align=\"bottom\" alt=\"mc005-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/516676c6dad177a987698a291d4787cb/mc005-1.jpg\" border=\"0\"\u003E",
+      "jawaban_soal_id": "723",
       "answers": [
         {
-          "id": "4642",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EUpacara Bendera’\u003C/span\u003E"
+          "id": "723",
+          "jawaban": "Abadi sakola"
         },
         {
-          "id": "4641",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESenam Pagi\u003C/span\u003E"
+          "id": "721",
+          "jawaban": "Abadi dahar"
         },
         {
-          "id": "4643",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMenghias taman Kelas\u003C/span\u003E"
+          "id": "722",
+          "jawaban": "Abadi dongkap"
         },
         {
-          "id": "4644",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPemilihan Osis\u003C/span\u003E"
+          "id": "725",
+          "jawaban": "Abadi saré"
         },
         {
-          "id": "4645",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMengerjakan Tugas dari guru\u003C/span\u003E"
+          "id": "724",
+          "jawaban": "Abadi ulin"
         }
       ]
     },
     {
-      "id": "908",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EPersatuan, Kekeluargaan, Keseimbangan lahir dan batin, Musyawarah, Keadilan Rakyat rumusan calon dasar negara tersebut di atas merupakan usulan dari….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "169",
+      "question": "Dongéng anu eusina raket patalina jeung kapercayaan masarakat kana bangsa lelembut atawa hal-hal gaib disebut......",
+      "jawaban_soal_id": "841",
       "answers": [
         {
-          "id": "4538",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIr, Soekarno\u003C/span\u003E"
+          "id": "844",
+          "jawaban": "Legenda"
         },
         {
-          "id": "4536",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESoepomo\u003C/span\u003E"
+          "id": "845",
+          "jawaban": "Sasakala"
         },
         {
-          "id": "4540",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EHatta\u003C/span\u003E"
+          "id": "841",
+          "jawaban": "Mite"
         },
         {
-          "id": "4537",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMohammad Yamin\u003C/span\u003E"
+          "id": "842",
+          "jawaban": "Babad"
         },
         {
-          "id": "4539",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESayuti Melik\u003C/span\u003E"
+          "id": "843",
+          "jawaban": "Pabel"
         }
       ]
     },
     {
-      "id": "936",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EPasal dalam UUD NRI Tahun 1945 yang terkait dengan Pendidikan yaitu termasuk dalam Pasal ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "159",
+      "question": "Cara nyawang anu dipaké ku pangarang dina midangkeun palaku, latar jeung kajadian carita disebut.....",
+      "jawaban_soal_id": "794",
       "answers": [
         {
-          "id": "4679",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 31\u003C/span\u003E"
+          "id": "793",
+          "jawaban": "Latar"
         },
         {
-          "id": "4676",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 27\u003C/span\u003E"
+          "id": "795",
+          "jawaban": "Jejer"
         },
         {
-          "id": "4680",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 34\u003C/span\u003E"
+          "id": "791",
+          "jawaban": "Amanat"
         },
         {
-          "id": "4677",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 33\u003C/span\u003E"
+          "id": "794",
+          "jawaban": "Galur"
         },
         {
-          "id": "4678",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 28\u003C/span\u003E"
+          "id": "792",
+          "jawaban": "Puseur sawangan"
         }
       ]
     },
     {
-      "id": "944",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003E\u003Cspan style=\"color:#14142b\"\u003ENazila merupakan seorang anak yang selalu mempertimbangkan baik atau buruknya dalam setiap perilaku yang dilakukan. Perilaku yang dilakukan Nazila merupakan contoh dari norma ...\u003C/span\u003E\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "155",
+      "question": "Karya sastra wangun carita rékaan anu méré kesan pamohalan tur ukuranana parondok disebut.....",
+      "jawaban_soal_id": "771",
       "answers": [
         {
-          "id": "4717",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma susila\u003C/span\u003E"
+          "id": "775",
+          "jawaban": "Biantara"
         },
         {
-          "id": "4720",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma kaidah\u003C/span\u003E"
+          "id": "773",
+          "jawaban": "Dongéng"
         },
         {
-          "id": "4716",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma hukum\u003C/span\u003E"
+          "id": "771",
+          "jawaban": "Carpon"
         },
         {
-          "id": "4719",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma sosial\u003C/span\u003E"
+          "id": "772",
+          "jawaban": "Novel"
         },
         {
-          "id": "4718",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma agama\u003C/span\u003E"
+          "id": "774",
+          "jawaban": "Sajak"
         }
       ]
     },
     {
-      "id": "920",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003E\u003Cbr\u003E\u003C/span\u003E\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EContoh penerapan sila pertama, yaitu Keýtuhanan Yanýg Maha Esa, dalam kehidupan sehari-hari adalah…\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "147",
+      "question": "\u003Cspan style=\"font-size:14pt\"\u003E\u003Cbr\u003E\u003C/span\u003E\u003Cspan style=\"font-size:14pt\"\u003E      \u003C/span\u003E\u003Cspan style=\"font-size:12pt\"\u003EUnsur-unsur aksara Sunda diantarana aksara sora atawa aksara vokal. Di handap ieu nu kaasup kana aksara sora, nya éta .....\u003Cbr\u003E\u003C/span\u003E",
+      "jawaban_soal_id": "734",
       "answers": [
         {
-          "id": "4596",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMenghormati dan menghargai keberagaman agama di lingkungan sekitar\u003C/span\u003E"
+          "id": "735",
+          "jawaban": "\u003Cspan style=\"font-size:14pt\"\u003E\u003Cspan style=\"font-family:'SundaneseLatin'\"\u003E\u003Cimg width=\"57\" height=\"33\" align=\"bottom\" alt=\"mc007-5.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/516676c6dad177a987698a291d4787cb/mc007-5.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003C/span\u003E"
         },
         {
-          "id": "4597",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMengikuti tradisi dan adat istiadat yang berkaitan dengan agama yang dianut\u003C/span\u003E"
+          "id": "731",
+          "jawaban": "\u003Cspan style=\"font-family:'SundaneseLatin'\"\u003E\u003Cspan style=\"font-size:16pt\"\u003E\u003Cimg width=\"69\" height=\"25\" align=\"bottom\" alt=\"mc007-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/516676c6dad177a987698a291d4787cb/mc007-1.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003C/span\u003E"
         },
         {
-          "id": "4600",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESemua jawaban benar\u003C/span\u003E"
+          "id": "734",
+          "jawaban": "\u003Cspan style=\"font-size:14pt\"\u003E\u003Cspan style=\"font-family:'SundaneseLatin'\"\u003E\u003Cimg width=\"39\" height=\"31\" align=\"bottom\" alt=\"mc007-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/516676c6dad177a987698a291d4787cb/mc007-4.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003C/span\u003E"
         },
         {
-          "id": "4598",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMelakukan kegiatan ibadah sesuai dengan keyakinan masing-masing\u003C/span\u003E"
+          "id": "733",
+          "jawaban": "\u003Cspan style=\"font-family:'SundaneseLatin'\"\u003E\u003Cspan style=\"font-size:14pt\"\u003E\u003Cimg width=\"40\" height=\"31\" align=\"bottom\" alt=\"mc007-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/516676c6dad177a987698a291d4787cb/mc007-3.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003C/span\u003E"
         },
         {
-          "id": "4599",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMematuhi peraturan agama yang berlaku dalam kehidupan sehari-hari\u003C/span\u003E"
+          "id": "732",
+          "jawaban": "\u003Cspan style=\"font-size:14pt\"\u003E\u003Cspan style=\"font-family:'SundaneseLatin'\"\u003E\u003Cimg width=\"53\" height=\"25\" align=\"bottom\" alt=\"mc007-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/516676c6dad177a987698a291d4787cb/mc007-2.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003C/span\u003E"
         }
       ]
     },
     {
-      "id": "945",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EPenempatan Pancasila sebagai sumber dari segala hukum negera sesuai dengan pembukaan Undang-undang Dasar Negara Republik Indonesia Tahun 1945 terdapat pada alinea ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "149",
+      "question": "\u003Cspan style=\"font-size:18pt\"\u003E\u003Cimg width=\"182\" height=\"28\" align=\"bottom\" alt=\"mc009-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/516676c6dad177a987698a291d4787cb/mc009-1.jpg\" border=\"0\"\u003E\u003Cbr\u003E\u003C/span\u003EUnsur-unsur aksara Sunda téh aya lima rupa, unsur-unsur di luhur mangrupa conto unsur aksara Sunda .....\u003Cbr\u003E",
+      "jawaban_soal_id": "745",
       "answers": [
         {
-          "id": "4722",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EII\u003C/span\u003E"
+          "id": "744",
+          "jawaban": "Swara"
         },
         {
-          "id": "4721",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EI\u003C/span\u003E"
+          "id": "741",
+          "jawaban": "Angka"
         },
         {
-          "id": "4724",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIV\u003C/span\u003E"
+          "id": "742",
+          "jawaban": "Rarangkén"
         },
         {
-          "id": "4725",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESemua Jawaban Benar\u003C/span\u003E"
+          "id": "743",
+          "jawaban": "Kaganga"
         },
         {
-          "id": "4723",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIII\u003C/span\u003E"
+          "id": "745",
+          "jawaban": "Vokal"
         }
       ]
     },
     {
-      "id": "927",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003ESebuah Konsep Saling membantu satu sama lain dalam melaksanakan  kegiatan sosial merupakan bentuk dari proyek ……….\u003C/span\u003E",
-      "jawaban_soal_id": null,
+      "id": "157",
+      "question": "Gagasan awal anu hayang ditepikeun ku pangarang dina karyana disebut?",
+      "jawaban_soal_id": "784",
       "answers": [
         {
-          "id": "4632",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Erasisme\u003C/span\u003E"
+          "id": "783",
+          "jawaban": "Jejer"
         },
         {
-          "id": "4631",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Egotong royong\u003C/span\u003E"
+          "id": "785",
+          "jawaban": "Amanat"
         },
         {
-          "id": "4635",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMusyawarah\u003C/span\u003E"
+          "id": "781",
+          "jawaban": "Palaku"
         },
         {
-          "id": "4634",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Etenggang rasa\u003C/span\u003E"
+          "id": "782",
+          "jawaban": "Latar"
         },
         {
-          "id": "4633",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Etoleransi\u003C/span\u003E"
+          "id": "784",
+          "jawaban": "Galur"
         }
       ]
     },
     {
-      "id": "939",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003ESetiap orang berhak memeluk agama dan beribadat menurut agamanya, memilih pendidikan dan pengajaran, memilih pekerjaan, memilih kewarganegaraan, memilih tempat tinggal di wilayah Negara dan meninggalkannya, serta berhak kembali, bunyi dari pasal dan ayat berapa …..\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "162",
+      "question": "Di handap ieu rundayan atawa turunan dina istilah pancakaki, \u003Cb\u003Eiwal ti .....\u003C/b\u003E",
+      "jawaban_soal_id": "807",
       "answers": [
         {
-          "id": "4695",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 28 J ayat 1\u003C/span\u003E"
+          "id": "808",
+          "jawaban": "Alo"
         },
         {
-          "id": "4691",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 28 H ayat 1\u003C/span\u003E"
+          "id": "806",
+          "jawaban": "Bao"
         },
         {
-          "id": "4693",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 28 B ayat 1\u003C/span\u003E"
+          "id": "809",
+          "jawaban": "Bau sinduk"
         },
         {
-          "id": "4692",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 28 G ayat 1\u003C/span\u003E"
+          "id": "810",
+          "jawaban": "Kait siwur"
         },
         {
-          "id": "4694",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 28 E ayat 1\u003C/span\u003E"
+          "id": "807",
+          "jawaban": "Gantung siwur"
         }
       ]
     },
     {
-      "id": "943",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EAturan pergaulan dalam Masyarakat yang bersumber dari ajaran agama . pengertian diatas disebut sebagai norma….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "167",
+      "question": "Di handap ieu nu \u003Cb\u003Eteu kaasup\u003C/b\u003E kana unsur-unsur aksara Sunda, nya éta ......",
+      "jawaban_soal_id": "835",
       "answers": [
         {
-          "id": "4715",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma kaidah\u003C/span\u003E"
+          "id": "832",
+          "jawaban": "Aksara Ngalagina"
         },
         {
-          "id": "4714",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma sosial\u003C/span\u003E"
+          "id": "831",
+          "jawaban": "Aksara sora"
         },
         {
-          "id": "4711",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma hukum\u003C/span\u003E"
+          "id": "833",
+          "jawaban": "Tandabaca"
         },
         {
-          "id": "4712",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma susila\u003C/span\u003E"
+          "id": "835",
+          "jawaban": "Angka"
         },
         {
-          "id": "4713",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENorma agama\u003C/span\u003E"
+          "id": "834",
+          "jawaban": "Rarangkén"
         }
       ]
     },
     {
-      "id": "919",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EApa yang menjadi nilai utama yang terkandung dari sila kedua dalam Pancasila?\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "148",
+      "question": "Pék titenan kalimah ieu!\u003Cbr\u003E\u003Cbr\u003E\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"175\" height=\"25\" align=\"bottom\" alt=\"mc008-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/516676c6dad177a987698a291d4787cb/mc008-1.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003Cspan style=\"font-size:14pt\"\u003E\u003Cbr\u003E\u003Cbr\u003E\u003C/span\u003EKalimah di luhur hartina.........",
+      "jawaban_soal_id": "737",
       "answers": [
         {
-          "id": "4595",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENilai Keadilan\u003C/span\u003E"
+          "id": "738",
+          "jawaban": "Saha mawa mama"
         },
         {
-          "id": "4593",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENilai Persatuan\u003C/span\u003E"
+          "id": "739",
+          "jawaban": "Bapa mawa calana"
         },
         {
-          "id": "4591",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENilai Ketuhanan\u003C/span\u003E"
+          "id": "736",
+          "jawaban": "Mama mawa saha"
         },
         {
-          "id": "4594",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENilai Kerakyatan\u003C/span\u003E"
+          "id": "740",
+          "jawaban": "Bapa mama"
         },
         {
-          "id": "4592",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ENilai Kemanusiaan\u003C/span\u003E"
+          "id": "737",
+          "jawaban": "Bapa mawa saha"
         }
       ]
     },
     {
-      "id": "940",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003ENorma tingkah laku, Norma sosial, Norma agama, Norma hokum Fakir miskin dan anak-anak terlantar dipelihara oleh Negara, bunyi dari pasal dan ayat berapa ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "158",
+      "question": "Dina unsur dongéng, palaku tambahan disebut?",
+      "jawaban_soal_id": "787",
       "answers": [
         {
-          "id": "4698",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 34 ayat 1\u003C/span\u003E"
+          "id": "790",
+          "jawaban": "Pamohalan"
         },
         {
-          "id": "4700",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 34 ayat 3\u003C/span\u003E"
+          "id": "789",
+          "jawaban": "Anonim"
         },
         {
-          "id": "4696",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 33 ayat 1\u003C/span\u003E"
+          "id": "788",
+          "jawaban": "Protagonis"
         },
         {
-          "id": "4697",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 33 ayat 2\u003C/span\u003E"
+          "id": "787",
+          "jawaban": "Tritagonis"
         },
         {
-          "id": "4699",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 34 ayat 2\u003C/span\u003E"
+          "id": "786",
+          "jawaban": "Antagonis"
         }
       ]
     },
     {
-      "id": "935",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003EUndang-Undang Dasar 1945 mengalami perubahan atau perbaikan ( Amandemen)  sebanyak ….\u003C/span\u003E",
-      "jawaban_soal_id": null,
+      "id": "168",
+      "question": "Runtuyan kajadian anu lumangsung ti awal nepi ka ahir carita disebutna galur, galur maju dikenal ku istilah?",
+      "jawaban_soal_id": "839",
       "answers": [
         {
-          "id": "4672",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EII\u003C/span\u003E"
+          "id": "836",
+          "jawaban": "Campuran"
         },
         {
-          "id": "4671",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EI\u003C/span\u003E"
+          "id": "839",
+          "jawaban": "Mérélé"
         },
         {
-          "id": "4675",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EV\u003C/span\u003E"
+          "id": "840",
+          "jawaban": "Amanat"
         },
         {
-          "id": "4674",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIV\u003C/span\u003E"
+          "id": "838",
+          "jawaban": "Mundur"
         },
         {
-          "id": "4673",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIII\u003C/span\u003E"
+          "id": "837",
+          "jawaban": "Flashback"
         }
       ]
     },
     {
-      "id": "930",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EAda dua jenis gotong royong yaitu ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "152",
+      "question": "Dina dongéng sangkuriang aya unsur pamohalan, diantarana waé nya éta .....",
+      "jawaban_soal_id": "758",
       "answers": [
         {
-          "id": "4650",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EGotong royong tolong menolong dan gotong royong sendirian\u003C/span\u003E"
+          "id": "760",
+          "jawaban": "Sangkuriang saenyana anak raja"
         },
         {
-          "id": "4649",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EGotong royong tolong menolong dan gotong royong kerja sendiri\u003C/span\u003E"
+          "id": "756",
+          "jawaban": "Raja kahampangan dina balokéng"
         },
         {
-          "id": "4646",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EGotong royong tolong menolong dan gotong royong sendiri sendiri\u003C/span\u003E"
+          "id": "757",
+          "jawaban": "Dayang sumbi boga anak sangkuriang"
         },
         {
-          "id": "4647",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EGotong royong tolong menolong dan gotong royong kerja bakti\u003C/span\u003E"
+          "id": "759",
+          "jawaban": "Dayang sumbi kawin jeung Si Tumang"
         },
         {
-          "id": "4648",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EGotong royong tolong menolong dan gotong royong tanpa tolong menolong\u003C/span\u003E"
+          "id": "758",
+          "jawaban": "Sangkuriang nyieun parahu"
         }
       ]
     },
     {
-      "id": "912",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EPiagam Jakarta yang disepakati pada tanggal 22 juni 1945 didasari atas......\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "150",
+      "question": "\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"139\" height=\"27\" align=\"bottom\" alt=\"mc010-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/516676c6dad177a987698a291d4787cb/mc010-1.jpg\" border=\"0\"\u003E\u003Cbr\u003E\u003C/span\u003EKalimah di luhur miboga harti .....",
+      "jawaban_soal_id": "749",
       "answers": [
         {
-          "id": "4559",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Ekebijakan Ir.Soekarno\u003C/span\u003E"
+          "id": "746",
+          "jawaban": "Bapa mawa saha?"
         },
         {
-          "id": "4557",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Etekanan dari pemerintah berkuasa yaitu jepang\u003C/span\u003E"
+          "id": "747",
+          "jawaban": "Lala mawa saha?"
         },
         {
-          "id": "4560",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Ekepentingan pribumi\u003C/span\u003E"
+          "id": "749",
+          "jawaban": "Mama mawa saha?"
         },
         {
-          "id": "4558",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Emusyawarah dan mufakat\u003C/span\u003E"
+          "id": "748",
+          "jawaban": "Lala mawa caca?"
         },
         {
-          "id": "4556",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Ekepentingan golongan kebangsaan\u003C/span\u003E"
+          "id": "750",
+          "jawaban": "Caca mawa lala?"
         }
       ]
     },
     {
-      "id": "917",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EBPUPK mengadakan sidang pertama yang dilaksanakan tanggal 29 Mei 1945 sampai dengan 1 Juni 1945 membahas tentang….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "163",
+      "question": "Dina istilah dulur atawa baraya ti gigir pancakaki, \u003Cb\u003Eanakna ua \u003C/b\u003Edisebut?",
+      "jawaban_soal_id": "814",
       "answers": [
         {
-          "id": "4584",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Elembaga Negara\u003C/span\u003E"
+          "id": "814",
+          "jawaban": "Alo"
         },
         {
-          "id": "4583",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Edasar Negara\u003C/span\u003E"
+          "id": "815",
+          "jawaban": "Bao"
         },
         {
-          "id": "4585",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Ebendera Negara\u003C/span\u003E"
+          "id": "813",
+          "jawaban": "Suan"
         },
         {
-          "id": "4581",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Elambang Negara\u003C/span\u003E"
+          "id": "811",
+          "jawaban": "Kapilanceuk"
         },
         {
-          "id": "4582",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003Ebentuk Negara\u003C/span\u003E"
+          "id": "812",
+          "jawaban": "Kapiadi"
         }
       ]
     },
     {
-      "id": "932",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003ENegara Indonesia memiliki 2 jenis Konstitusi,  UUD 1945 Merupakan jenis Konstitusi …….\u003C/span\u003E",
-      "jawaban_soal_id": null,
+      "id": "141",
+      "question": "Dina unsur aksara kaganga, aya sababaraha aksara anu hampir sarua dina aksara Sunda  \u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"143\" height=\"31\" align=\"bottom\" alt=\"mc001-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/516676c6dad177a987698a291d4787cb/mc001-1.jpg\" border=\"0\"\u003E \u003C/span\u003Enya éta .....",
+      "jawaban_soal_id": "703",
       "answers": [
         {
-          "id": "4658",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EArsip\u003C/span\u003E"
+          "id": "701",
+          "jawaban": "ka jeung sa"
         },
         {
-          "id": "4657",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ETidak Tertulis\u003C/span\u003E"
+          "id": "704",
+          "jawaban": "ha jeung na"
         },
         {
-          "id": "4660",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EAgenda\u003C/span\u003E"
+          "id": "703",
+          "jawaban": "ja jeung da"
         },
         {
-          "id": "4659",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EDokumen\u003C/span\u003E"
+          "id": "702",
+          "jawaban": "ba jeung nya"
         },
         {
-          "id": "4656",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ETertulis\u003C/span\u003E"
+          "id": "705",
+          "jawaban": "sa jeung na"
         }
       ]
     },
     {
-      "id": "921",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003E\u003Cbr\u003E\u003C/span\u003E\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003ESeorang siswa sekolah terlibat dalam aksi sosial untuk menggalang dana bagi anak-anak panti asuhan. Ia mengumpulkan sumbangan dari teman sekelasnya, guru, dan warga sekitar. Tindakan tersebut mencerminkan penerapan Pancasila dari sila keberapa?\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "151",
+      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Ci\u003E“Ceuk sasakalana mah, éta situ téh asal muasalna kieu. baheula, aya hiji randa beunghar ngaranna Nyi Endit. ari ngaran aslina mah Nyi Bagendit. Manéhna téh kacida kumedna. Tatanggana geus arapal kana sipatna. Salian ti bujang atawa babuna mah, tara aya nu larsup ka imahna. Éstuning lain babasan hirup nyorangan téh. Ngahaja mencilkeun manéh, ngababakan di tengah pasawahan nu upluk-aplak. Maksudna taya lian ku bawaning embung pacampur jeung batur, da sieun kasoro téa.” \u003Cbr\u003E\u003C/i\u003ESempalan dongéng di luhur judulna nya éta .....\u003C/div\u003E",
+      "jawaban_soal_id": "755",
       "answers": [
         {
-          "id": "4605",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESýila Kelima\u003C/span\u003E"
+          "id": "752",
+          "jawaban": "Sangkuringan"
         },
         {
-          "id": "4601",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESýila Pertama\u003C/span\u003E"
+          "id": "753",
+          "jawaban": "Sasakala Panjalu"
         },
         {
-          "id": "4602",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESýila Kedua\u003C/span\u003E"
+          "id": "751",
+          "jawaban": "Si Kabayan Ngala Nangka"
         },
         {
-          "id": "4603",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESýila Ketiga\u003C/span\u003E"
+          "id": "754",
+          "jawaban": "Sakadang kuya jeung sakadang peucang"
         },
         {
-          "id": "4604",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESýila Keempat\u003C/span\u003E"
+          "id": "755",
+          "jawaban": "Sasakala situ bagendit"
         }
       ]
     },
     {
-      "id": "909",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EDasar Negara Indonesia merdeka  di sampaikan  Ir. Soekarno dalam sidang BPUPK  pada tanggal …………………..\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "143",
+      "question": "Rarangkén dina aksara Sunda kaganga nya éta lambang pikeun ngarobah sora vokal. Rarangkén paneuleung méh sarua wangunna jeung ....",
+      "jawaban_soal_id": "714",
       "answers": [
         {
-          "id": "4544",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E31 Mei 1945\u003C/span\u003E"
+          "id": "714",
+          "jawaban": "Panyuku"
         },
         {
-          "id": "4542",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E29 Mei 1945\u003C/span\u003E"
+          "id": "711",
+          "jawaban": "Panéléng"
         },
         {
-          "id": "4545",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E1 Juni 1945\u003C/span\u003E"
+          "id": "713",
+          "jawaban": "Panolong"
         },
         {
-          "id": "4543",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E30 Mei 1945\u003C/span\u003E"
+          "id": "715",
+          "jawaban": "Panglayar"
         },
         {
-          "id": "4541",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E28 Mei 1945\u003C/span\u003E"
+          "id": "712",
+          "jawaban": "Pamepet"
         }
       ]
     },
     {
-      "id": "923",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EDalam konteks kehidupan berbangsa, keadilan dapat bermakna bahwa setiap bangsa Indonesia berada dalam posisi yang setara baik terkait dengan harkat, martabat, hak dan kewajibannya.\u003Cbr\u003E\u003C/span\u003E\u003C/div\u003E\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EHal ini termasuk penerapan Pancasila sila ke ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "142",
+      "question": "Salasahiji unsur-unsur aksara Sunda nya éta rarangkén anu jumlahna aya 13, diantarana rarangkén panglayar anu gunana pikeun .....",
+      "jawaban_soal_id": "707",
       "answers": [
         {
-          "id": "4613",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESila ke tiga\u003C/span\u003E"
+          "id": "710",
+          "jawaban": "Nambahan konsonan /+r/, nulisna gigireun aksara dasar"
         },
         {
-          "id": "4615",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESila ke lima\u003C/span\u003E"
+          "id": "708",
+          "jawaban": "Nambahan konsonan /+r/, nulisna tukangeun aksara dasar"
         },
         {
-          "id": "4614",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESila ke empat\u003C/span\u003E"
+          "id": "709",
+          "jawaban": "Nambahan konsonan /+r/, nulisna harepeun aksara dasar"
         },
         {
-          "id": "4612",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESila ke dua\u003C/span\u003E"
+          "id": "707",
+          "jawaban": "Nambahan konsonan /+r/, nulisna luhureun aksara dasar"
         },
         {
-          "id": "4611",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESila pertama\u003C/span\u003E"
+          "id": "706",
+          "jawaban": "Nambahan konsonan /+r/, nulisna handapeun aksara dasar"
         }
       ]
     },
     {
-      "id": "916",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EBangsa Indonesia memiliki pandangan hidup, dasar Negara dan ideologi  yaitu\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "164",
+      "question": "Carita dongéng anu ukuran caritana panjang tur eusina medar riwayat luluhur atawa kajadian jaman baheula anu aya patalina jeung sajarah atawa karajaan disebut?",
+      "jawaban_soal_id": "820",
       "answers": [
         {
-          "id": "4579",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EBhineka Tunggal Ika\u003C/span\u003E"
+          "id": "819",
+          "jawaban": "Mite"
         },
         {
-          "id": "4576",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EBurung Garuda\u003C/span\u003E"
+          "id": "818",
+          "jawaban": "Parabel"
         },
         {
-          "id": "4580",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EUUD NRI 1945\u003C/span\u003E"
+          "id": "817",
+          "jawaban": "Pabel"
         },
         {
-          "id": "4578",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPancasila\u003C/span\u003E"
+          "id": "820",
+          "jawaban": "Legenda"
         },
         {
-          "id": "4577",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EBendera Merah Putih\u003C/span\u003E"
+          "id": "816",
+          "jawaban": "Sagé"
         }
       ]
     },
     {
-      "id": "926",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EBeberapa tantangan penerapan Pancasila yang bersumber pada media sosial antara lain …. \u003Ci\u003EKecuali ….\u003C/i\u003E\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "165",
+      "question": "Dina istilah pancakaki, \u003Cb\u003EIndung atawa Bapa (kolotna) udeg-udeg\u003C/b\u003E disebut?",
+      "jawaban_soal_id": "825",
       "answers": [
         {
-          "id": "4630",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ETiktok an\u003C/span\u003E"
+          "id": "825",
+          "jawaban": "Buyut"
         },
         {
-          "id": "4629",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPenyebaran HOAKS\u003C/span\u003E"
+          "id": "823",
+          "jawaban": "Kait siwur"
         },
         {
-          "id": "4628",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIntoleransi\u003C/span\u003E"
+          "id": "824",
+          "jawaban": "Bau sinduk"
         },
         {
-          "id": "4626",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ERadikalisme\u003C/span\u003E"
+          "id": "821",
+          "jawaban": "Bao"
         },
         {
-          "id": "4627",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EUjaran Kebencian\u003C/span\u003E"
+          "id": "822",
+          "jawaban": "Alo"
         }
       ]
     },
     {
-      "id": "911",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EDasar Negara Indonesia merdeka  di sampaikan Moh. Yamin   dalam sidang BPUPK  pada tanggal …………………..\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "146",
+      "question": "\u003Cspan style=\"font-size:14pt\"\u003E\u003Cbr\u003E\u003C/span\u003E\u003Cspan style=\"font-size:14pt\"\u003E        \u003C/span\u003E\u003Cspan style=\"font-size:12pt\"\u003EPék robah kalimah ieu kana aksara Sunda “\u003Ci\u003EBapa Jaya dimana?\u003C/i\u003E”\u003C/span\u003E",
+      "jawaban_soal_id": "727",
       "answers": [
         {
-          "id": "4553",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E30 Mei 1945\u003C/span\u003E"
+          "id": "726",
+          "jawaban": "\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"153\" height=\"28\" align=\"bottom\" alt=\"mc006-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/516676c6dad177a987698a291d4787cb/mc006-1.jpg\" border=\"0\"\u003E\u003C/span\u003E"
         },
         {
-          "id": "4552",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E29 Mei 1945\u003C/span\u003E"
+          "id": "729",
+          "jawaban": "\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"175\" height=\"23\" align=\"bottom\" alt=\"mc006-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/516676c6dad177a987698a291d4787cb/mc006-4.jpg\" border=\"0\"\u003E\u003C/span\u003E"
         },
         {
-          "id": "4551",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E28 Mei 1945\u003C/span\u003E"
+          "id": "728",
+          "jawaban": "\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"151\" height=\"33\" align=\"bottom\" alt=\"mc006-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/516676c6dad177a987698a291d4787cb/mc006-3.jpg\" border=\"0\"\u003E\u003C/span\u003E"
         },
         {
-          "id": "4555",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E1 Juni 1945\u003C/span\u003E"
+          "id": "730",
+          "jawaban": "\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"169\" height=\"37\" align=\"bottom\" alt=\"mc006-5.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/516676c6dad177a987698a291d4787cb/mc006-5.jpg\" border=\"0\"\u003E\u003C/span\u003E"
         },
         {
-          "id": "4554",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E31 Mei 1945\u003C/span\u003E"
+          "id": "727",
+          "jawaban": "\u003Cimg width=\"151\" height=\"35\" align=\"bottom\" alt=\"mc006-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/516676c6dad177a987698a291d4787cb/mc006-2.jpg\" border=\"0\"\u003E"
         }
       ]
     },
     {
-      "id": "922",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EBahwa segala keputusan di lingkungan masyarakat harus dilakukan dengan penuh hikmat kebijaksanaan melalui mekanisme musyawarah, hal ini ditegaskan dalam sila ke ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "156",
+      "question": "Pék baca sempalan dongéng di handap ieu!\u003Cbr\u003E\u003Cdiv style=\"text-align:justify\"\u003E\u003Ci\u003EAya anak maung rék nginum ka walungan. Barang nepi ka walungan, nincak tonggong anak buhaya. Anak buhaya nyerieun, ceurik sarta bébéja ka indungna di jero leuwi. \u003Cbr\u003E\u003Cbr\u003E\u003C/i\u003ESempalan dongéng di luhur téh mangrupa sempalan dongéng anu judulna?\u003C/div\u003E",
+      "jawaban_soal_id": "778",
       "answers": [
         {
-          "id": "4606",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EKetuhanan yang Maha Esa\u003C/span\u003E"
+          "id": "778",
+          "jawaban": "Sakadang Maung"
         },
         {
-          "id": "4608",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPersatuan Indonesia\u003C/span\u003E"
+          "id": "777",
+          "jawaban": "Sakadang Peucang"
         },
         {
-          "id": "4607",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EKemanusiaan yang adil dan beradab\u003C/span\u003E"
+          "id": "779",
+          "jawaban": "Sakadang Kuya"
         },
         {
-          "id": "4610",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EKeadilan sosial bagi seluruh rakyat Indonesia\u003C/span\u003E"
+          "id": "780",
+          "jawaban": "Sasakala Panjalu"
         },
         {
-          "id": "4609",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EKerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan\u003C/span\u003E"
+          "id": "776",
+          "jawaban": "Sasakala Kaliwedi"
         }
       ]
     },
     {
-      "id": "913",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EPanitia Persiapan Kemerdekaan Indonesia Melakukan Penghapusan Tujuh Kata pada Piagam Jakarta pada tanggal …\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
+      "id": "153",
+      "question": "\u003Cdiv style=\"text-align:justify\"\u003EBaheula mah ngadongéng téh jadi kabiasaan urang Sunda keur mépéndé barudak. Kiwari dongéng téh lain dipaké keur mépéndé, tapi geus jadi media hiburan. Sanajan jadi media hiburan, dongéng ogé moboga ajén atikan. Di handap ieu nu teu kaasup kana ciri-ciri dongéng nya éta.....\u003C/div\u003E",
+      "jawaban_soal_id": "762",
       "answers": [
         {
-          "id": "4561",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E1 Juni 1945\u003C/span\u003E"
+          "id": "763",
+          "jawaban": "Wangun caritana leuwih pondok batan novel"
         },
         {
-          "id": "4563",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E17 Agustus 1945\u003C/span\u003E"
+          "id": "765",
+          "jawaban": "Sumebar sacara tulisan"
         },
         {
-          "id": "4562",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E22 Juni 1945\u003C/span\u003E"
+          "id": "762",
+          "jawaban": "Anonim"
         },
         {
-          "id": "4565",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E19 Agustus 1945\u003C/span\u003E"
+          "id": "761",
+          "jawaban": "Sipatna pamohalan"
         },
         {
-          "id": "4564",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E18 Agustusb 1945\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "914",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EKesepakatan Panitia Sembilan, yang didalamnya terdapat tujuh kata dengan kewajiban menjalankan syariat Islam bagi pemeluk -  pemeluknya dinamakan….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
-      "answers": [
-        {
-          "id": "4567",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPancasila\u003C/span\u003E"
-        },
-        {
-          "id": "4566",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESumpah Pemuda\u003C/span\u003E"
-        },
-        {
-          "id": "4569",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EDekrit Presiden\u003C/span\u003E"
-        },
-        {
-          "id": "4570",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EUUD Negara RI Tahun 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4568",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPiagam Jakarta\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "924",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003ESelain berkomunikasi yang baik , media sosial juga digunakan untuk penggalangan dana korban banjir maupun bencana lainnya, yang dilakukan melalui media sosial, hal ini merupakan......\u003C/span\u003E",
-      "jawaban_soal_id": null,
-      "answers": [
-        {
-          "id": "4619",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EAncaman Penerapan Pancasila\u003C/span\u003E"
-        },
-        {
-          "id": "4620",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EKemudahan  Penerapan Pancasila\u003C/span\u003E"
-        },
-        {
-          "id": "4616",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPeluang Penerapan Pancasila\u003C/span\u003E"
-        },
-        {
-          "id": "4618",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EHambatan Penerapan Pancasila\u003C/span\u003E"
-        },
-        {
-          "id": "4617",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ETantangan Penerapan Pancasila\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "915",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EPembentukan Panitia Persiapan Kemerdekaan Indonesia (PPKI) pada tanggal ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
-      "answers": [
-        {
-          "id": "4575",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E06 Agustus 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4574",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E17 Agustus 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4572",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E9 Agustus 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4573",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E14 Agustus 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4571",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E22 Juni 1945\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "918",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EHari Lahir Pancasila yaitu ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": "4589",
-      "answers": [
-        {
-          "id": "4589",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E1 Juni 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4588",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E22 Juni 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4587",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E31 Mei 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4586",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E29 Juni 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4590",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E29 Aril 1945\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "931",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003EHukum dasar tertinggi yang bersifat Fundamental di Negara Idonesia adalah ….\u003C/span\u003E",
-      "jawaban_soal_id": "4652",
-      "answers": [
-        {
-          "id": "4653",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPancasila\u003C/span\u003E"
-        },
-        {
-          "id": "4652",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EUndang – Undang Dasar 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4654",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPeraturan Pemerintah\u003C/span\u003E"
-        },
-        {
-          "id": "4651",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EUndang – Undang\u003C/span\u003E"
-        },
-        {
-          "id": "4655",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPeraturan Daerah\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "910",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EDasar Negara Indonesia merdeka  di sampaikan Soepomo dalam sidang BPUPK  pada tanggal …………………..\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
-      "answers": [
-        {
-          "id": "4549",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E31 Mei 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4547",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E29 Mei 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4550",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E1 Juni 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4546",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E28 Mei 1945\u003C/span\u003E"
-        },
-        {
-          "id": "4548",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003E30 Mei 1945\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "928",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003EKegiatan yang dapat meningkatkan Solidaritas Sosial dan meringankan beban orang lain serta meningkatkan rasa kerja sama merupakan ……\u003C/span\u003E",
-      "jawaban_soal_id": null,
-      "answers": [
-        {
-          "id": "4636",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMakna Toleransi\u003C/span\u003E"
-        },
-        {
-          "id": "4639",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMakna Musyawarah\u003C/span\u003E"
-        },
-        {
-          "id": "4637",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMakna Rasisme\u003C/span\u003E"
-        },
-        {
-          "id": "4638",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMakna Gotong Royong\u003C/span\u003E"
-        },
-        {
-          "id": "4640",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMakna Tenggang Rasa\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "907",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EKebangsaan Indonesia,Peri kemanusiaan atau internasionalisme, Mufakat atau demokrasi, Kesejahteraan sosial, dan Ketuhanan. rumusan calon dasar negara tersebut di atas merupakan usulan dari….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
-      "answers": [
-        {
-          "id": "4532",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EMohammad Yamin\u003C/span\u003E"
-        },
-        {
-          "id": "4533",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EIr, Soekarno\u003C/span\u003E"
-        },
-        {
-          "id": "4534",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESayuti Melik\u003C/span\u003E"
-        },
-        {
-          "id": "4535",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EHatta\u003C/span\u003E"
-        },
-        {
-          "id": "4531",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ESoepomo\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "934",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003ESetelah UUD NRI Tahun 1945 di sahkan oleh PPKI pada tanggal 18 Agustus 1945. Mengalami perubahan menjadi UUD RIS tahun 1949 kemudian pada Tahun 1950 kembali mengalami berubah menjadi ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
-      "answers": [
-        {
-          "id": "4667",
-          "jawaban": "\u003Cb\u003E\u003Cspan style=\"font-size:12pt\"\u003EUndang - undang\u003C/span\u003E\u003C/b\u003E"
-        },
-        {
-          "id": "4669",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPerda\u003C/span\u003E"
-        },
-        {
-          "id": "4666",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EUUDS\u003C/span\u003E"
-        },
-        {
-          "id": "4670",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003ETap MPR\u003C/span\u003E"
-        },
-        {
-          "id": "4668",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EKepmen\u003C/span\u003E"
-        }
-      ]
-    },
-    {
-      "id": "937",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Cspan style=\"font-size:12pt\"\u003EBeberapa Pasal dalam UUD NRI Tahun 1945 yang berhubungan langsung dengan kehidupan sehari-hari salah satunya terkait dengan Hak dan Kewajiban Warga Negara yaitu termasuk dalam Pasal ….\u003C/span\u003E\u003C/div\u003E",
-      "jawaban_soal_id": null,
-      "answers": [
-        {
-          "id": "4681",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 28\u003C/span\u003E"
-        },
-        {
-          "id": "4683",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 30\u003C/span\u003E"
-        },
-        {
-          "id": "4684",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 27\u003C/span\u003E"
-        },
-        {
-          "id": "4685",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 33\u003C/span\u003E"
-        },
-        {
-          "id": "4682",
-          "jawaban": "\u003Cspan style=\"font-size:12pt\"\u003EPasal 29\u003C/span\u003E"
+          "id": "764",
+          "jawaban": "Wangun lancaran"
         }
       ]
     }
