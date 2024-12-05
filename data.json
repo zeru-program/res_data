@@ -2,812 +2,1082 @@
   "status": "200",
   "data": [
     {
-      "id": "1534",
-      "question": "Rarangkén dina aksara Sunda kaganga nya éta lambang pikeun ngarobah sora vokal. Anu gunana pikeun ngaleungitkeun sora vokal aksara dasar anu miheulaan nya éta .....",
-      "jawaban_soal_id": "7668",
+      "id": "177",
+      "question": "Perubahan iklim mengakibatkan:",
+      "jawaban_soal_id": "881",
       "answers": [
         {
-          "id": "7667",
-          "jawaban": "Panyiku"
+          "id": "884",
+          "jawaban": "Meningkatnya populasi hewan peliharaan"
         },
         {
-          "id": "7666",
-          "jawaban": "Pangwisad"
+          "id": "881",
+          "jawaban": " Penurunan tingkat keanekaragaman hayati"
         },
         {
-          "id": "7669",
-          "jawaban": "Pamingkal"
+          "id": "882",
+          "jawaban": "Meningkatnya kualitas tanah"
         },
         {
-          "id": "7670",
-          "jawaban": "Panolong"
+          "id": "885",
+          "jawaban": "Pengurangan polusi"
         },
         {
-          "id": "7668",
-          "jawaban": "Pamaéh"
+          "id": "883",
+          "jawaban": "Stabilitas ekosistem"
         }
       ]
     },
     {
-      "id": "1559",
-      "question": "Dongéng anu eusina raket patalina jeung kapercayaan masarakat kana bangsa lelembut atawa hal-hal gaib disebut......",
-      "jawaban_soal_id": "7791",
+      "id": "203",
+      "question": "Sistem yang terdiri dari Bumi, Matahari, dan semua benda langit yang berinteraksi dengannya merupakan:",
+      "jawaban_soal_id": "1014",
       "answers": [
         {
-          "id": "7791",
-          "jawaban": "Mite"
+          "id": "1014",
+          "jawaban": "Tatasurya"
         },
         {
-          "id": "7794",
-          "jawaban": "Legenda"
+          "id": "1015",
+          "jawaban": "Asterisme"
         },
         {
-          "id": "7793",
-          "jawaban": "Pabel"
+          "id": "1011",
+          "jawaban": "Galaksi"
         },
         {
-          "id": "7792",
-          "jawaban": "Babad"
+          "id": "1013",
+          "jawaban": "Nebula"
         },
         {
-          "id": "7795",
-          "jawaban": "Sasakala"
+          "id": "1012",
+          "jawaban": "Universum"
         }
       ]
     },
     {
-      "id": "1539",
-      "question": "\u003Cspan style=\"font-size:18pt\"\u003E\u003Cimg width=\"182\" height=\"28\" align=\"bottom\" alt=\"mc009-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc009-1.jpg\" border=\"0\"\u003E\u003Cbr\u003E\u003C/span\u003EUnsur-unsur aksara Sunda téh aya lima rupa, unsur-unsur di luhur mangrupa conto unsur aksara Sunda .....\u003Cbr\u003E",
-      "jawaban_soal_id": "7691",
+      "id": "172",
+      "question": "Apa yang menjadi penyebab utama perubahan lingkungan?",
+      "jawaban_soal_id": "857",
       "answers": [
         {
-          "id": "7695",
-          "jawaban": "Vokal"
+          "id": "858",
+          "jawaban": "Proses alamiah"
         },
         {
-          "id": "7693",
-          "jawaban": "Kaganga"
+          "id": "859",
+          "jawaban": "Perubahan iklim"
         },
         {
-          "id": "7694",
-          "jawaban": "Swara"
+          "id": "856",
+          "jawaban": "Pertumbuhan populasi hewan"
         },
         {
-          "id": "7692",
-          "jawaban": "Rarangkén"
+          "id": "857",
+          "jawaban": "Aktivitas manusia"
         },
         {
-          "id": "7691",
-          "jawaban": "Angka"
+          "id": "860",
+          "jawaban": "Semua jawaban benar"
         }
       ]
     },
     {
-      "id": "1557",
-      "question": "Di handap ieu nu \u003Cb\u003Eteu kaasup\u003C/b\u003E kana unsur-unsur aksara Sunda, nya éta ......",
-      "jawaban_soal_id": "7782",
+      "id": "210",
+      "question": "Apa yang dimaksud dengan garis khatulistiwa?",
+      "jawaban_soal_id": "1047",
       "answers": [
         {
-          "id": "7784",
-          "jawaban": "Rarangkén"
+          "id": "1047",
+          "jawaban": " Garis yang memotong Bumi menjadi belahan utara dan selatan"
         },
         {
-          "id": "7781",
-          "jawaban": "Aksara sora"
+          "id": "1046",
+          "jawaban": "Garis yang menunjukkan batas negara"
         },
         {
-          "id": "7783",
-          "jawaban": "Tandabaca"
+          "id": "1050",
+          "jawaban": "Garis yang menandai musim panas"
         },
         {
-          "id": "7782",
-          "jawaban": "Aksara Ngalagina"
+          "id": "1049",
+          "jawaban": " Garis lintang terendah"
         },
         {
-          "id": "7785",
-          "jawaban": "Angka"
+          "id": "1048",
+          "jawaban": "Garis lintang tertinggi"
         }
       ]
     },
     {
-      "id": "1556",
-      "question": "Dongéng nu nyaritakeun kahirupan jalma biasa, tapi kalakuan atawa pasipatanana sok mahiwal ti batur disebut?",
-      "jawaban_soal_id": "7779",
+      "id": "205",
+      "question": "Planet terbesar di tata surya kita adalah:",
+      "jawaban_soal_id": "1024",
       "answers": [
         {
-          "id": "7779",
-          "jawaban": "Sasakala"
+          "id": "1024",
+          "jawaban": "Jupiter"
         },
         {
-          "id": "7776",
-          "jawaban": "Pabel"
+          "id": "1025",
+          "jawaban": "Merkurius"
         },
         {
-          "id": "7777",
-          "jawaban": "Parabel"
+          "id": "1021",
+          "jawaban": "Mars"
         },
         {
-          "id": "7780",
-          "jawaban": "Mite"
+          "id": "1022",
+          "jawaban": "Bumi"
         },
         {
-          "id": "7778",
-          "jawaban": "Legenda"
+          "id": "1023",
+          "jawaban": "Saturnus"
         }
       ]
     },
     {
-      "id": "1549",
-      "question": "Cara nyawang anu dipaké ku pangarang dina midangkeun palaku, latar jeung kajadian carita disebut.....",
-      "jawaban_soal_id": "7744",
+      "id": "184",
+      "question": "Apa yang dimaksud dengan pencemaran suara?",
+      "jawaban_soal_id": "917",
       "answers": [
         {
-          "id": "7741",
-          "jawaban": "Amanat"
+          "id": "920",
+          "jawaban": "Suara dari kegiatan olahraga"
         },
         {
-          "id": "7743",
-          "jawaban": "Latar"
+          "id": "918",
+          "jawaban": "Suara alam yang natural"
         },
         {
-          "id": "7745",
-          "jawaban": "Jejer"
+          "id": "919",
+          "jawaban": "Suara dari alat musik"
         },
         {
-          "id": "7742",
-          "jawaban": "Puseur sawangan"
+          "id": "917",
+          "jawaban": "Suara yang mengganggu ketenangan dan kesehatan manusia"
         },
         {
-          "id": "7744",
-          "jawaban": "Galur"
+          "id": "916",
+          "jawaban": "Suara yang indah"
         }
       ]
     },
     {
-      "id": "1541",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Ci\u003E“Ceuk sasakalana mah, éta situ téh asal muasalna kieu. baheula, aya hiji randa beunghar ngaranna Nyi Endit. ari ngaran aslina mah Nyi Bagendit. Manéhna téh kacida kumedna. Tatanggana geus arapal kana sipatna. Salian ti bujang atawa babuna mah, tara aya nu larsup ka imahna. Éstuning lain babasan hirup nyorangan téh. Ngahaja mencilkeun manéh, ngababakan di tengah pasawahan nu upluk-aplak. Maksudna taya lian ku bawaning embung pacampur jeung batur, da sieun kasoro téa.” \u003Cbr\u003E\u003C/i\u003ESempalan dongéng di luhur judulna nya éta .....\u003C/div\u003E",
-      "jawaban_soal_id": "7705",
+      "id": "179",
+      "question": "Proses perubahan zat dari fasa cair menjadi fasa gas disebut:",
+      "jawaban_soal_id": "892",
       "answers": [
         {
-          "id": "7704",
-          "jawaban": "Sakadang kuya jeung sakadang peucang"
+          "id": "894",
+          "jawaban": "Sublimasi"
         },
         {
-          "id": "7702",
-          "jawaban": "Sangkuringan"
+          "id": "892",
+          "jawaban": "Penguapan"
         },
         {
-          "id": "7705",
-          "jawaban": "Sasakala situ bagendit"
+          "id": "895",
+          "jawaban": "Kondensasi"
         },
         {
-          "id": "7701",
-          "jawaban": "Si Kabayan Ngala Nangka"
+          "id": "891",
+          "jawaban": "Pembekuan"
         },
         {
-          "id": "7703",
-          "jawaban": "Sasakala Panjalu"
+          "id": "893",
+          "jawaban": "Peleburan"
         }
       ]
     },
     {
-      "id": "1551",
-      "question": "Di handap ieu nu \u003Cb\u003Eteu kaasup\u003C/b\u003E kana ciri-ciri dongéng nya éta?",
-      "jawaban_soal_id": "7752",
+      "id": "195",
+      "question": "Apa yang bisa dilakukan untuk mengurangi risiko dari bahan berbahaya?",
+      "jawaban_soal_id": "971",
       "answers": [
         {
-          "id": "7751",
-          "jawaban": "Caritana basajan"
+          "id": "973",
+          "jawaban": "Mengaduk dengan baik"
         },
         {
-          "id": "7754",
-          "jawaban": "Boga konvéksi"
+          "id": "972",
+          "jawaban": "Menghindari penggunaan alat pelindung diri"
         },
         {
-          "id": "7752",
-          "jawaban": "Ngandung ajén atikan"
+          "id": "974",
+          "jawaban": "Menyimpan di tempat yang terlihat"
         },
         {
-          "id": "7753",
-          "jawaban": "Boga improvisasi"
+          "id": "971",
+          "jawaban": "Menggunakan bahan alternatif yang lebih aman"
         },
         {
-          "id": "7755",
-          "jawaban": "Ngandung unsur pamohalan"
+          "id": "975",
+          "jawaban": "Menumpukkan semuanya di satu tempat"
         }
       ]
     },
     {
-      "id": "1552",
-      "question": "Di handap ieu rundayan atawa turunan dina istilah pancakaki, \u003Cb\u003Eiwal ti .....\u003C/b\u003E",
-      "jawaban_soal_id": "7759",
+      "id": "200",
+      "question": "Perbedaan suhu antara siang dan malam hari disebabkan oleh:",
+      "jawaban_soal_id": "996",
       "answers": [
         {
-          "id": "7756",
-          "jawaban": "Bao"
+          "id": "997",
+          "jawaban": "Revolusi Bumi"
         },
         {
-          "id": "7760",
-          "jawaban": "Kait siwur"
+          "id": "998",
+          "jawaban": "Jarak dari Matahari"
         },
         {
-          "id": "7758",
-          "jawaban": "Alo"
+          "id": "999",
+          "jawaban": " Lingkungan"
         },
         {
-          "id": "7759",
-          "jawaban": "Bau sinduk"
+          "id": "996",
+          "jawaban": "Rotasi Bumi"
         },
         {
-          "id": "7757",
-          "jawaban": "Gantung siwur"
+          "id": "1000",
+          "jawaban": "Siang hari tidak ada angin\u003Cbr\u003E"
         }
       ]
     },
     {
-      "id": "1555",
-      "question": "Dina istilah pancakaki, \u003Cb\u003EIndung atawa Bapa (kolotna) udeg-udeg\u003C/b\u003E disebut?",
-      "jawaban_soal_id": "7771",
+      "id": "180",
+      "question": "Perubahan zat yang menghasilkan zat baru disebut:",
+      "jawaban_soal_id": "897",
       "answers": [
         {
-          "id": "7771",
-          "jawaban": "Bao"
+          "id": "898",
+          "jawaban": "Perubahan Biologis"
         },
         {
-          "id": "7775",
-          "jawaban": "Buyut"
+          "id": "900",
+          "jawaban": "Perubahan Megastruktural"
         },
         {
-          "id": "7773",
-          "jawaban": "Kait siwur"
+          "id": "899",
+          "jawaban": "Perubahan Mekanik"
         },
         {
-          "id": "7772",
-          "jawaban": "Alo"
+          "id": "896",
+          "jawaban": "Perubahan Fisika"
         },
         {
-          "id": "7774",
-          "jawaban": "Bau sinduk"
+          "id": "897",
+          "jawaban": "Perubahan Kimia"
         }
       ]
     },
     {
-      "id": "1535",
-      "question": "\u003Cspan style=\"font-size:12pt\"\u003EPék robah kalimah di handap ieu!\u003Cbr\u003E\u003C/span\u003E\u003Cimg width=\"277\" height=\"79\" align=\"bottom\" alt=\"mc005-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc005-1.jpg\" border=\"0\"\u003E",
-      "jawaban_soal_id": "7673",
+      "id": "192",
+      "question": "Salah satu ancaman terbesar dari penggunaan energi tidak dapat diperbarui adalah:",
+      "jawaban_soal_id": "959",
       "answers": [
         {
-          "id": "7675",
-          "jawaban": "Abadi saré"
+          "id": "959",
+          "jawaban": "Kerusakan lingkungan"
         },
         {
-          "id": "7673",
-          "jawaban": "Abadi sakola"
+          "id": "957",
+          "jawaban": "Meningkatnya lapangan kerja"
         },
         {
-          "id": "7674",
-          "jawaban": "Abadi ulin"
+          "id": "956",
+          "jawaban": "Meningkatnya infrastruktur"
         },
         {
-          "id": "7671",
-          "jawaban": "Abadi dahar"
+          "id": "960",
+          "jawaban": "Berkurangnya ketergantungan"
         },
         {
-          "id": "7672",
-          "jawaban": "Abadi dongkap"
+          "id": "958",
+          "jawaban": "Krisis energi"
         }
       ]
     },
     {
-      "id": "1532",
-      "question": "Salasahiji unsur-unsur aksara Sunda nya éta rarangkén anu jumlahna aya 13, diantarana rarangkén panglayar anu gunana pikeun .....",
-      "jawaban_soal_id": "7658",
+      "id": "197",
+      "question": "Munculnya fenomena cuaca ekstrem, seperti banjir bandang, dapat diakibatkan oleh:",
+      "jawaban_soal_id": "981",
       "answers": [
         {
-          "id": "7660",
-          "jawaban": "Nambahan konsonan /+r/, nulisna gigireun aksara dasar"
+          "id": "981",
+          "jawaban": "Ketidakstabilan cuaca"
         },
         {
-          "id": "7659",
-          "jawaban": "Nambahan konsonan /+r/, nulisna harepeun aksara dasar"
+          "id": "983",
+          "jawaban": "Jenis tanah"
         },
         {
-          "id": "7657",
-          "jawaban": "Nambahan konsonan /+r/, nulisna luhureun aksara dasar"
+          "id": "982",
+          "jawaban": "Pembekuan salju"
         },
         {
-          "id": "7658",
-          "jawaban": "Nambahan konsonan /+r/, nulisna tukangeun aksara dasar"
+          "id": "985",
+          "jawaban": "Tanaman yang tumbuh"
         },
         {
-          "id": "7656",
-          "jawaban": "Nambahan konsonan /+r/, nulisna handapeun aksara dasar"
+          "id": "984",
+          "jawaban": "Aktivitas gunung api"
         }
       ]
     },
     {
-      "id": "1548",
-      "question": "Dina unsur dongéng, palaku tambahan disebut?",
-      "jawaban_soal_id": "7737",
+      "id": "207",
+      "question": "Apa yang menjadi penyebab utama terjadinya gempa bumi?",
+      "jawaban_soal_id": "1035",
       "answers": [
         {
-          "id": "7740",
-          "jawaban": "Pamohalan"
+          "id": "1035",
+          "jawaban": "Pergerakan lempeng tektonik"
         },
         {
-          "id": "7737",
-          "jawaban": "Tritagonis"
+          "id": "1034",
+          "jawaban": "Erosi tanah"
         },
         {
-          "id": "7739",
-          "jawaban": "Anonim"
+          "id": "1033",
+          "jawaban": "Cuaca ekstrem"
         },
         {
-          "id": "7736",
-          "jawaban": "Antagonis"
+          "id": "1032",
+          "jawaban": "Pemanasan global"
         },
         {
-          "id": "7738",
-          "jawaban": "Protagonis"
+          "id": "1031",
+          "jawaban": "Aktivitas vulkanik"
         }
       ]
     },
     {
-      "id": "1531",
-      "question": "Dina unsur aksara kaganga, aya sababaraha aksara anu hampir sarua dina aksara Sunda  \u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"143\" height=\"31\" align=\"bottom\" alt=\"mc001-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc001-1.jpg\" border=\"0\"\u003E \u003C/span\u003Enya éta .....",
-      "jawaban_soal_id": "7653",
+      "id": "208",
+      "question": "Lamanya satu kali rotasi Bumi adalah sekitar:",
+      "jawaban_soal_id": "1036",
       "answers": [
         {
-          "id": "7653",
-          "jawaban": "ja jeung da"
+          "id": "1039",
+          "jawaban": "48 jam"
         },
         {
-          "id": "7652",
-          "jawaban": "ba jeung nya"
+          "id": "1040",
+          "jawaban": "60 jam"
         },
         {
-          "id": "7655",
-          "jawaban": "sa jeung na"
+          "id": "1038",
+          "jawaban": "36 jam"
         },
         {
-          "id": "7654",
-          "jawaban": "ha jeung na"
+          "id": "1036",
+          "jawaban": "24 Jam"
         },
         {
-          "id": "7651",
-          "jawaban": "ka jeung sa"
+          "id": "1037",
+          "jawaban": "12 jam"
         }
       ]
     },
     {
-      "id": "1542",
-      "question": "Dina dongéng sangkuriang aya unsur pamohalan, diantarana waé nya éta .....",
-      "jawaban_soal_id": "7709",
+      "id": "206",
+      "question": "Lapisan atmosfer yang paling dekat dengan permukaan Bumi disebut:",
+      "jawaban_soal_id": "1027",
       "answers": [
         {
-          "id": "7707",
-          "jawaban": "Dayang sumbi boga anak sangkuriang"
+          "id": "1030",
+          "jawaban": "Eksosfer"
         },
         {
-          "id": "7710",
-          "jawaban": "Sangkuriang saenyana anak raja"
+          "id": "1028",
+          "jawaban": "Mesosfer"
         },
         {
-          "id": "7708",
-          "jawaban": "Sangkuriang nyieun parahu"
+          "id": "1029",
+          "jawaban": "Termosfer"
         },
         {
-          "id": "7706",
-          "jawaban": "Raja kahampangan dina balokéng"
+          "id": "1026",
+          "jawaban": "Stratosfer"
         },
         {
-          "id": "7709",
-          "jawaban": "Dayang sumbi kawin jeung Si Tumang"
+          "id": "1027",
+          "jawaban": "Troposfer"
         }
       ]
     },
     {
-      "id": "1553",
-      "question": "Dina istilah dulur atawa baraya ti gigir pancakaki, \u003Cb\u003Eanakna ua \u003C/b\u003Edisebut?",
-      "jawaban_soal_id": "7761",
+      "id": "185",
+      "question": "Contoh pencemaran yang diakibatkan oleh limbah domestik adalah:",
+      "jawaban_soal_id": "923",
       "answers": [
         {
-          "id": "7765",
-          "jawaban": "Bao"
+          "id": "924",
+          "jawaban": "Bahan kimia pertanian"
         },
         {
-          "id": "7764",
-          "jawaban": "Alo"
+          "id": "925",
+          "jawaban": "Penggunaan pupuk organik"
         },
         {
-          "id": "7763",
-          "jawaban": "Suan"
+          "id": "921",
+          "jawaban": "Hujan asam"
         },
         {
-          "id": "7762",
-          "jawaban": "Kapiadi"
+          "id": "922",
+          "jawaban": "Plastik yang dibuang sembarangan"
         },
         {
-          "id": "7761",
-          "jawaban": "Kapilanceuk"
+          "id": "923",
+          "jawaban": "Limbah pabrik"
         }
       ]
     },
     {
-      "id": "1545",
-      "question": "Karya sastra wangun carita rékaan anu méré kesan pamohalan tur ukuranana parondok disebut.....",
-      "jawaban_soal_id": "7721",
+      "id": "176",
+      "question": "Apa yang menjadi indikator kualitas air dalam suatu ekosistem?",
+      "jawaban_soal_id": "880",
       "answers": [
         {
-          "id": "7721",
-          "jawaban": "Carpon"
+          "id": "880",
+          "jawaban": "Semua jawaban benar"
         },
         {
-          "id": "7725",
-          "jawaban": "Biantara"
+          "id": "879",
+          "jawaban": "Warna air"
         },
         {
-          "id": "7722",
-          "jawaban": "Novel"
+          "id": "878",
+          "jawaban": "Kadar oksigen terlarut"
         },
         {
-          "id": "7724",
-          "jawaban": "Sajak"
+          "id": "877",
+          "jawaban": "Kehadiran alga"
         },
         {
-          "id": "7723",
-          "jawaban": "Dongéng"
+          "id": "876",
+          "jawaban": "Suhu air"
         }
       ]
     },
     {
-      "id": "1536",
-      "question": "\u003Cspan style=\"font-size:14pt\"\u003E\u003Cbr\u003E\u003C/span\u003E\u003Cspan style=\"font-size:14pt\"\u003E        \u003C/span\u003E\u003Cspan style=\"font-size:12pt\"\u003EPék robah kalimah ieu kana aksara Sunda “\u003Ci\u003EBapa Jaya dimana?\u003C/i\u003E”\u003C/span\u003E",
-      "jawaban_soal_id": "7677",
+      "id": "183",
+      "question": "Gas yang paling berperan dalam terjadinya efek rumah kaca adalah:",
+      "jawaban_soal_id": "913",
       "answers": [
         {
-          "id": "7680",
-          "jawaban": "\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"169\" height=\"37\" align=\"bottom\" alt=\"mc006-5.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc006-5.jpg\" border=\"0\"\u003E\u003C/span\u003E"
+          "id": "912",
+          "jawaban": "Nitrogen"
         },
         {
-          "id": "7679",
-          "jawaban": "\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"175\" height=\"23\" align=\"bottom\" alt=\"mc006-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc006-4.jpg\" border=\"0\"\u003E\u003C/span\u003E"
+          "id": "914",
+          "jawaban": "Hidrogen"
         },
         {
-          "id": "7678",
-          "jawaban": "\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"151\" height=\"33\" align=\"bottom\" alt=\"mc006-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc006-3.jpg\" border=\"0\"\u003E\u003C/span\u003E"
+          "id": "915",
+          "jawaban": "Ozon"
         },
         {
-          "id": "7676",
-          "jawaban": "\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"153\" height=\"28\" align=\"bottom\" alt=\"mc006-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc006-1.jpg\" border=\"0\"\u003E\u003C/span\u003E"
+          "id": "911",
+          "jawaban": "Oksigen"
         },
         {
-          "id": "7677",
-          "jawaban": "\u003Cimg width=\"151\" height=\"35\" align=\"bottom\" alt=\"mc006-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc006-2.jpg\" border=\"0\"\u003E"
+          "id": "913",
+          "jawaban": "Karbon dioksida"
         }
       ]
     },
     {
-      "id": "1547",
-      "question": "Gagasan awal anu hayang ditepikeun ku pangarang dina karyana disebut?",
-      "jawaban_soal_id": "7733",
+      "id": "204",
+      "question": "Fenomena di mana Bumi berada tepat di antara Matahari dan Bulan, sehingga Bayangan Bumi menutupi Bulan disebut:",
+      "jawaban_soal_id": "1017",
       "answers": [
         {
-          "id": "7731",
-          "jawaban": "Palaku"
+          "id": "1017",
+          "jawaban": "Gerhana Bulan"
         },
         {
-          "id": "7732",
-          "jawaban": "Latar"
+          "id": "1020",
+          "jawaban": "Konjungsi"
         },
         {
-          "id": "7733",
-          "jawaban": "Jejer"
+          "id": "1018",
+          "jawaban": "Ekliptika"
         },
         {
-          "id": "7734",
-          "jawaban": "Galur"
+          "id": "1019",
+          "jawaban": "Transit"
         },
         {
-          "id": "7735",
-          "jawaban": "Amanat"
+          "id": "1016",
+          "jawaban": "Gerhana Matahari"
         }
       ]
     },
     {
-      "id": "1533",
-      "question": "Rarangkén dina aksara Sunda kaganga nya éta lambang pikeun ngarobah sora vokal. Rarangkén paneuleung méh sarua wangunna jeung ....",
-      "jawaban_soal_id": "7664",
+      "id": "193",
+      "question": "Apa yang terjadi jika bahan beracun tercemar ke dalam sumber air?",
+      "jawaban_soal_id": "963",
       "answers": [
         {
-          "id": "7661",
-          "jawaban": "Panéléng"
+          "id": "964",
+          "jawaban": "Mengurangi keanekaragaman hayati"
         },
         {
-          "id": "7662",
-          "jawaban": "Pamepet"
+          "id": "965",
+          "jawaban": "Meningkatkan populasi ikan"
         },
         {
-          "id": "7664",
-          "jawaban": "Panyuku"
+          "id": "963",
+          "jawaban": "Mengakibatkan keracunan pada organisme akuatik dan manusia"
         },
         {
-          "id": "7665",
-          "jawaban": "Panglayar"
+          "id": "962",
+          "jawaban": "Air menjadi lebih bersih"
         },
         {
-          "id": "7663",
-          "jawaban": "Panolong"
+          "id": "961",
+          "jawaban": "Tidak berpengaruh pada kehidupan"
         }
       ]
     },
     {
-      "id": "1543",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003EBaheula mah ngadongéng téh jadi kabiasaan urang Sunda keur mépéndé barudak. Kiwari dongéng téh lain dipaké keur mépéndé, tapi geus jadi media hiburan. Sanajan jadi media hiburan, dongéng ogé moboga ajén atikan. Di handap ieu nu teu kaasup kana ciri-ciri dongéng nya éta.....\u003C/div\u003E",
-      "jawaban_soal_id": "7715",
+      "id": "202",
+      "question": "Lapisan Bumi yang paling tebal adalah:",
+      "jawaban_soal_id": "1007",
       "answers": [
         {
-          "id": "7712",
-          "jawaban": "Anonim"
+          "id": "1006",
+          "jawaban": "Kerak"
         },
         {
-          "id": "7711",
-          "jawaban": "Sipatna pamohalan"
+          "id": "1009",
+          "jawaban": "Inti dalam"
         },
         {
-          "id": "7715",
-          "jawaban": "Sumebar sacara tulisan"
+          "id": "1007",
+          "jawaban": "Mantel"
         },
         {
-          "id": "7713",
-          "jawaban": "Wangun caritana leuwih pondok batan novel"
+          "id": "1008",
+          "jawaban": "Inti luar"
         },
         {
-          "id": "7714",
-          "jawaban": "Wangun lancaran"
+          "id": "1010",
+          "jawaban": "Atmosfer"
         }
       ]
     },
     {
-      "id": "1537",
-      "question": "\u003Cspan style=\"font-size:14pt\"\u003E\u003Cbr\u003E\u003C/span\u003E\u003Cspan style=\"font-size:14pt\"\u003E      \u003C/span\u003E\u003Cspan style=\"font-size:12pt\"\u003EUnsur-unsur aksara Sunda diantarana aksara sora atawa aksara vokal. Di handap ieu nu kaasup kana aksara sora, nya éta .....\u003Cbr\u003E\u003C/span\u003E",
-      "jawaban_soal_id": "7684",
+      "id": "173",
+      "question": "Proses pemulihan kembali ekosistem setelah terjadi bencana disebut:",
+      "jawaban_soal_id": "864",
       "answers": [
         {
-          "id": "7683",
-          "jawaban": "\u003Cspan style=\"font-family:'SundaneseLatin'\"\u003E\u003Cspan style=\"font-size:14pt\"\u003E\u003Cimg width=\"40\" height=\"31\" align=\"bottom\" alt=\"mc007-3.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc007-3.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003C/span\u003E"
+          "id": "864",
+          "jawaban": "Restorasi"
         },
         {
-          "id": "7685",
-          "jawaban": "\u003Cspan style=\"font-size:14pt\"\u003E\u003Cspan style=\"font-family:'SundaneseLatin'\"\u003E\u003Cimg width=\"57\" height=\"33\" align=\"bottom\" alt=\"mc007-5.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc007-5.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003C/span\u003E"
+          "id": "863",
+          "jawaban": "Rekonstitusi"
         },
         {
-          "id": "7681",
-          "jawaban": "\u003Cspan style=\"font-family:'SundaneseLatin'\"\u003E\u003Cspan style=\"font-size:16pt\"\u003E\u003Cimg width=\"69\" height=\"25\" align=\"bottom\" alt=\"mc007-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc007-1.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003C/span\u003E"
+          "id": "861",
+          "jawaban": "Ekspansi"
         },
         {
-          "id": "7684",
-          "jawaban": "\u003Cspan style=\"font-size:14pt\"\u003E\u003Cspan style=\"font-family:'SundaneseLatin'\"\u003E\u003Cimg width=\"39\" height=\"31\" align=\"bottom\" alt=\"mc007-4.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc007-4.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003C/span\u003E"
+          "id": "865",
+          "jawaban": "Transisi"
         },
         {
-          "id": "7682",
-          "jawaban": "\u003Cspan style=\"font-size:14pt\"\u003E\u003Cspan style=\"font-family:'SundaneseLatin'\"\u003E\u003Cimg width=\"53\" height=\"25\" align=\"bottom\" alt=\"mc007-2.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc007-2.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003C/span\u003E"
+          "id": "862",
+          "jawaban": "Reklamasi"
         }
       ]
     },
     {
-      "id": "1560",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003E\u003Ci\u003EJaman baheula, pernahna di wewengkon Karawang, kacaritakeun aya jajaka anu ngaranna Jaka Awang. Jaka Awang téh hiji lalaki langit lalanang jagat, sakti manggulang-mangguling. Harita Jaka Awang keur néangan adina nu ngarana Nyi Arum, nu lila leungit teuing ka mana.\u003Cbr\u003E\u003Cbr\u003E\u003C/i\u003E\u003C/div\u003ESempalan dongéng diluhur kaasup kana dongéng legenda nu judulna?",
-      "jawaban_soal_id": "7798",
+      "id": "171",
+      "question": "Apa yang dimaksud dengan ekosistem?",
+      "jawaban_soal_id": "854",
       "answers": [
         {
-          "id": "7796",
-          "jawaban": "Sasakala Tangkubanparahu"
+          "id": "854",
+          "jawaban": "Semua makhluk hidup"
         },
         {
-          "id": "7798",
-          "jawaban": "Sasakala Panjalu"
+          "id": "851",
+          "jawaban": "Kumpulan makhluk hidup di suatu daerah"
         },
         {
-          "id": "7800",
-          "jawaban": "Sasakala Situ Bagendit"
+          "id": "852",
+          "jawaban": "Interaksi antara makhluk hidup dan lingkungan"
         },
         {
-          "id": "7799",
-          "jawaban": "Sasakala Leuwigobang"
+          "id": "853",
+          "jawaban": "Proses daur ulang zat-zat organik"
         },
         {
-          "id": "7797",
-          "jawaban": "Sasakala Kaliwedi"
+          "id": "855",
+          "jawaban": "Hanya habitat hewan tertentu"
         }
       ]
     },
     {
-      "id": "1554",
-      "question": "Carita dongéng anu ukuran caritana panjang tur eusina medar riwayat luluhur atawa kajadian jaman baheula anu aya patalina jeung sajarah atawa karajaan disebut?",
-      "jawaban_soal_id": "7770",
+      "id": "201",
+      "question": "Lama waktu yang dibutuhkan Bumi untuk sekali revolusi mengelilingi Matahari adalah:",
+      "jawaban_soal_id": "1003",
       "answers": [
         {
-          "id": "7767",
-          "jawaban": "Pabel"
+          "id": "1001",
+          "jawaban": "280 hari"
         },
         {
-          "id": "7769",
-          "jawaban": "Mite"
+          "id": "1002",
+          "jawaban": "360 hari"
         },
         {
-          "id": "7770",
-          "jawaban": "Legenda"
+          "id": "1005",
+          "jawaban": "400 hari"
         },
         {
-          "id": "7766",
-          "jawaban": "Sagé"
+          "id": "1003",
+          "jawaban": "365 hari"
         },
         {
-          "id": "7768",
-          "jawaban": "Parabel"
+          "id": "1004",
+          "jawaban": "366 hari"
         }
       ]
     },
     {
-      "id": "1546",
-      "question": "Pék baca sempalan dongéng di handap ieu!\u003Cbr\u003E\u003Cdiv style=\"text-align:justify\"\u003E\u003Ci\u003EAya anak maung rék nginum ka walungan. Barang nepi ka walungan, nincak tonggong anak buhaya. Anak buhaya nyerieun, ceurik sarta bébéja ka indungna di jero leuwi. \u003Cbr\u003E\u003Cbr\u003E\u003C/i\u003ESempalan dongéng di luhur téh mangrupa sempalan dongéng anu judulna?\u003C/div\u003E",
-      "jawaban_soal_id": "7727",
+      "id": "186",
+      "question": "Apa dampak dari pencemaran lingkungan terhadap sumber energi terbarukan?",
+      "jawaban_soal_id": "928",
       "answers": [
         {
-          "id": "7727",
-          "jawaban": "Sakadang Peucang"
+          "id": "929",
+          "jawaban": "Menambah efisiensi"
         },
         {
-          "id": "7728",
-          "jawaban": "Sakadang Maung"
+          "id": "927",
+          "jawaban": "Tidak berpengaruh"
         },
         {
-          "id": "7730",
-          "jawaban": "Sasakala Panjalu"
+          "id": "926",
+          "jawaban": "Meningkatkan kuantitas"
         },
         {
-          "id": "7726",
-          "jawaban": "Sasakala Kaliwedi"
+          "id": "930",
+          "jawaban": "Mengurangi biaya produksi"
         },
         {
-          "id": "7729",
-          "jawaban": "Sakadang Kuya"
+          "id": "928",
+          "jawaban": "Merusak ekosistem yang mendukung produksi energi terbarukan"
         }
       ]
     },
     {
-      "id": "1538",
-      "question": "Pék titenan kalimah ieu!\u003Cbr\u003E\u003Cbr\u003E\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"175\" height=\"25\" align=\"bottom\" alt=\"mc008-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc008-1.jpg\" border=\"0\"\u003E\u003C/span\u003E\u003Cspan style=\"font-size:14pt\"\u003E\u003Cbr\u003E\u003Cbr\u003E\u003C/span\u003EKalimah di luhur hartina.........",
-      "jawaban_soal_id": "7687",
+      "id": "181",
+      "question": "Contoh zat yang mudah terurai dalam pemanasan adalah:",
+      "jawaban_soal_id": "902",
       "answers": [
         {
-          "id": "7689",
-          "jawaban": "Bapa mawa calana"
+          "id": "904",
+          "jawaban": "Minyak"
         },
         {
-          "id": "7687",
-          "jawaban": "Bapa mawa saha"
+          "id": "903",
+          "jawaban": "Air"
         },
         {
-          "id": "7686",
-          "jawaban": "Mama mawa saha"
+          "id": "902",
+          "jawaban": "Gula"
         },
         {
-          "id": "7688",
-          "jawaban": "Saha mawa mama"
+          "id": "901",
+          "jawaban": "Garam"
         },
         {
-          "id": "7690",
-          "jawaban": "Bapa mama"
+          "id": "905",
+          "jawaban": "Besi"
         }
       ]
     },
     {
-      "id": "1558",
-      "question": "Runtuyan kajadian anu lumangsung ti awal nepi ka ahir carita disebutna galur, galur maju dikenal ku istilah?",
-      "jawaban_soal_id": "7789",
+      "id": "182",
+      "question": "Sumber utama pencemaran udara adalah:",
+      "jawaban_soal_id": "910",
       "answers": [
         {
-          "id": "7787",
-          "jawaban": "Flashback"
+          "id": "907",
+          "jawaban": "Minyak bumi"
         },
         {
-          "id": "7786",
-          "jawaban": "Campuran"
+          "id": "909",
+          "jawaban": "Pertanian organik"
         },
         {
-          "id": "7788",
-          "jawaban": "Mundur"
+          "id": "906",
+          "jawaban": "Padi"
         },
         {
-          "id": "7789",
-          "jawaban": "Mérélé"
+          "id": "908",
+          "jawaban": "Pembangkit listrik tenaga air"
         },
         {
-          "id": "7790",
-          "jawaban": "Amanat"
+          "id": "910",
+          "jawaban": "Pemakaian mobil dan industri"
         }
       ]
     },
     {
-      "id": "1540",
-      "question": "\u003Cspan style=\"font-size:20pt\"\u003E\u003Cimg width=\"139\" height=\"27\" align=\"bottom\" alt=\"mc010-1.jpg\" src=\"https://exam.smkn4bogor.sch.id/uploads/images/d3db97c880de4f5da731f8878b711866/mc010-1.jpg\" border=\"0\"\u003E\u003Cbr\u003E\u003C/span\u003EKalimah di luhur miboga harti .....",
-      "jawaban_soal_id": "7698",
+      "id": "174",
+      "question": "Interaksi antara dua makhluk hidup yang berbeda spesies yang saling menguntungkan disebut:",
+      "jawaban_soal_id": "869",
       "answers": [
         {
-          "id": "7700",
-          "jawaban": "Caca mawa lala?"
+          "id": "868",
+          "jawaban": "Parasitisme"
         },
         {
-          "id": "7697",
-          "jawaban": "Lala mawa saha?"
+          "id": "869",
+          "jawaban": "Mutualisme"
         },
         {
-          "id": "7696",
-          "jawaban": "Bapa mawa saha?"
+          "id": "867",
+          "jawaban": "Predasi"
         },
         {
-          "id": "7698",
-          "jawaban": "Lala mawa caca?"
+          "id": "866",
+          "jawaban": "Komensalisme"
         },
         {
-          "id": "7699",
-          "jawaban": "Mama mawa saha?"
+          "id": "870",
+          "jawaban": "Kompetisi"
         }
       ]
     },
     {
-      "id": "1544",
-      "question": "\u003Cdiv style=\"text-align:justify\"\u003EPabel mangrupa dongéng anu eusina papatah, palakuna réréana sasatoan. Nu kaasup kana sempalan dongéng pabel nya éta .....\u003C/div\u003E",
-      "jawaban_soal_id": "7719",
+      "id": "175",
+      "question": "Proses di mana organisme mengurai bahan organik menjadi unsur hara untuk tanah disebut:",
+      "jawaban_soal_id": "875",
       "answers": [
         {
-          "id": "7720",
-          "jawaban": "Kacaritakeun manéhna téh meuli kalde, sawatara poé henteu ka dayeuh, ngumpulkeun heula suluhna, supaya rada loba."
+          "id": "871",
+          "jawaban": "Fotosintesis"
         },
         {
-          "id": "7718",
-          "jawaban": "Kacaturkeun Prabu Brongosngora, anak kadua Prabu Cakradéwata. Ari Prabu Cakradéwata téh raja karajaan Panjalu anu kawentar gagah tur sakti."
+          "id": "872",
+          "jawaban": "Respirasi"
         },
         {
-          "id": "7716",
-          "jawaban": "Ceuk Ninina, “Kabayan ulah kabeurangan waé, euseuh pisan gawé manéh mah, ngala-ngala tutut atuh da ari dahar mah kudu."
+          "id": "874",
+          "jawaban": "Transpirasi"
         },
         {
-          "id": "7717",
-          "jawaban": "Ceuk sasakalana mah, éta situ téh asal-muasalna kieu. Baheula aya hiji randa beunghar ngaranna Nyi Éndit. Ari ngaran aslina mah Nyi Bagendit."
+          "id": "875",
+          "jawaban": "Saborasi"
         },
         {
-          "id": "7719",
-          "jawaban": "Kacaritakeun diantara bangsa gagak, aya hiji gagak ngora, gagak jala nu keur meujeuhna belekensenteng, ngaranna Si Candrika."
+          "id": "873",
+          "jawaban": "Dekomposisi"
         }
       ]
     },
     {
-      "id": "1550",
-      "question": "Dongéng téh kaasup kana carita balaréa jeung geus milik rahayat. Dongéng dina sastra Sunda loba anu geus kolot umurna, jeung \u003Cb\u003Eteu kapaluruh iraha jeung saha anu ngarangna\u003C/b\u003E, anu sok disebut ku istilah .......",
-      "jawaban_soal_id": "7748",
+      "id": "194",
+      "question": "Apa yang harus dilakukan jika terjadi tumpahan bahan berbahaya di tempat kerja?",
+      "jawaban_soal_id": "967",
       "answers": [
         {
-          "id": "7749",
-          "jawaban": "Homonim"
+          "id": "966",
+          "jawaban": "Diamkan saja hingga mengering"
         },
         {
-          "id": "7746",
-          "jawaban": "Antonin"
+          "id": "969",
+          "jawaban": "Tutupi dengan kain"
         },
         {
-          "id": "7747",
-          "jawaban": "Sinonim"
+          "id": "967",
+          "jawaban": "Segera laporkan dan ikuti prosedur penanganan yang benar"
         },
         {
-          "id": "7748",
-          "jawaban": "Anonim"
+          "id": "970",
+          "jawaban": "Gunakan bahan pembersih biasa"
         },
         {
-          "id": "7750",
-          "jawaban": "Homograf"
+          "id": "968",
+          "jawaban": "Cuci dengan air biasa"
+        }
+      ]
+    },
+    {
+      "id": "190",
+      "question": "Instalasi panel surya yang memanfaatkan energi matahari untuk menghasilkan listrik disebut:",
+      "jawaban_soal_id": "948",
+      "answers": [
+        {
+          "id": "948",
+          "jawaban": "Pembangkit listrik solar (PLTS)"
+        },
+        {
+          "id": "947",
+          "jawaban": "Pembangkit bioenergi"
+        },
+        {
+          "id": "949",
+          "jawaban": "Pembangkit listrik geothermal"
+        },
+        {
+          "id": "950",
+          "jawaban": "Pembangkit listrik nuklir"
+        },
+        {
+          "id": "946",
+          "jawaban": "Pembangkit thermal"
+        }
+      ]
+    },
+    {
+      "id": "196",
+      "question": "Apa yang dimaksud dengan limbah berbahaya?",
+      "jawaban_soal_id": "977",
+      "answers": [
+        {
+          "id": "978",
+          "jawaban": "Limbah yang tidak menghasilkan bau"
+        },
+        {
+          "id": "976",
+          "jawaban": "Limbah yang dapat didaur ulang"
+        },
+        {
+          "id": "977",
+          "jawaban": "Limbah yang memiliki potensi mencemari lingkungan dan membahayakan kesehatan manusia"
+        },
+        {
+          "id": "980",
+          "jawaban": "Limbah yang bisa dibuang sembarangan"
+        },
+        {
+          "id": "979",
+          "jawaban": "Limbah yang tidak memerlukan pengelolaan khusus"
+        }
+      ]
+    },
+    {
+      "id": "199",
+      "question": "Proses pergerakan Bumi yang disebabkan oleh gaya tarik gravitasi dari benda langit termasuk dalam:",
+      "jawaban_soal_id": "992",
+      "answers": [
+        {
+          "id": "994",
+          "jawaban": "Energi kinetik"
+        },
+        {
+          "id": "995",
+          "jawaban": "Distribusi panas"
+        },
+        {
+          "id": "991",
+          "jawaban": "Rotasi"
+        },
+        {
+          "id": "992",
+          "jawaban": "Gravitasi"
+        },
+        {
+          "id": "993",
+          "jawaban": "Revolusi"
+        }
+      ]
+    },
+    {
+      "id": "209",
+      "question": "Apa yang terjadi jika dua lempeng tektonik bertemu dan saling menjauhi?",
+      "jawaban_soal_id": "1043",
+      "answers": [
+        {
+          "id": "1041",
+          "jawaban": "Terjadi gempa bumi"
+        },
+        {
+          "id": "1045",
+          "jawaban": "Terjadi tanah longsor"
+        },
+        {
+          "id": "1043",
+          "jawaban": "Terjadi pembentukan palung laut"
+        },
+        {
+          "id": "1044",
+          "jawaban": "Terjadi pembentukan gunung api"
+        },
+        {
+          "id": "1042",
+          "jawaban": "Terjadi pembentukan gunung"
+        }
+      ]
+    },
+    {
+      "id": "178",
+      "question": "Zat yang memiliki bentuk dan volume tetap disebut:",
+      "jawaban_soal_id": "888",
+      "answers": [
+        {
+          "id": "890",
+          "jawaban": "Uap"
+        },
+        {
+          "id": "886",
+          "jawaban": "Gas"
+        },
+        {
+          "id": "888",
+          "jawaban": "Padat"
+        },
+        {
+          "id": "887",
+          "jawaban": "Cair"
+        },
+        {
+          "id": "889",
+          "jawaban": "Plasma"
+        }
+      ]
+    },
+    {
+      "id": "191",
+      "question": "Bagaimana proses pengolahan energi fosil menjadi bahan bakar yang dapat digunakan?",
+      "jawaban_soal_id": "955",
+      "answers": [
+        {
+          "id": "953",
+          "jawaban": "Melalui penguapan"
+        },
+        {
+          "id": "951",
+          "jawaban": "Melalui distilasi"
+        },
+        {
+          "id": "952",
+          "jawaban": "Melalui pembentukan batu bara"
+        },
+        {
+          "id": "955",
+          "jawaban": "Melalui pembakaran"
+        },
+        {
+          "id": "954",
+          "jawaban": "Melalui redoks"
+        }
+      ]
+    },
+    {
+      "id": "198",
+      "question": "Ketidakseimbangan yang terjadi di antara suhu laut dan daratan dapat menyebabkan:",
+      "jawaban_soal_id": "986",
+      "answers": [
+        {
+          "id": "987",
+          "jawaban": " Hujan asam"
+        },
+        {
+          "id": "989",
+          "jawaban": "Arus laut"
+        },
+        {
+          "id": "988",
+          "jawaban": "Pertumbuhan vegetasi"
+        },
+        {
+          "id": "986",
+          "jawaban": "Suara gelombang laut"
+        },
+        {
+          "id": "990",
+          "jawaban": "Tumbuhnya alga"
+        }
+      ]
+    },
+    {
+      "id": "189",
+      "question": "Contoh pemanfaatan energi matahari untuk menghasilkan listrik disebut:",
+      "jawaban_soal_id": "944",
+      "answers": [
+        {
+          "id": "941",
+          "jawaban": "Pembangkit listrik hidro"
+        },
+        {
+          "id": "942",
+          "jawaban": "Pembangkit listrik geothermal"
+        },
+        {
+          "id": "945",
+          "jawaban": "Turbin angin"
+        },
+        {
+          "id": "944",
+          "jawaban": "Panel surya"
+        },
+        {
+          "id": "943",
+          "jawaban": "Pembangkit listrik termal"
+        }
+      ]
+    },
+    {
+      "id": "188",
+      "question": "Apa yang dapat dilakukan untuk mengurangi pencemaran lingkungan?",
+      "jawaban_soal_id": "940",
+      "answers": [
+        {
+          "id": "937",
+          "jawaban": "Meningkatkan penggunaan mobil pribadi"
+        },
+        {
+          "id": "939",
+          "jawaban": "Meninggalkan kebersihan"
+        },
+        {
+          "id": "940",
+          "jawaban": "Mendaur ulang sampah"
+        },
+        {
+          "id": "936",
+          "jawaban": "Meningkatkan penggunaan plastik sekali pakai"
+        },
+        {
+          "id": "938",
+          "jawaban": "Menebang pohon"
+        }
+      ]
+    },
+    {
+      "id": "187",
+      "question": "Pencemaran udara dapat mengakibatkan:",
+      "jawaban_soal_id": "934",
+      "answers": [
+        {
+          "id": "933",
+          "jawaban": "Kesehatan yang lebih baik"
+        },
+        {
+          "id": "932",
+          "jawaban": "Peningkatan produksi pertanian"
+        },
+        {
+          "id": "935",
+          "jawaban": "Pembersihan lingkungan"
+        },
+        {
+          "id": "931",
+          "jawaban": "Pertumbuhan tanaman yang lebih baik"
+        },
+        {
+          "id": "934",
+          "jawaban": " Penurunan kualitas hidup manusia"
         }
       ]
     }
